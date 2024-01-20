@@ -1,6 +1,7 @@
 /*.svg
 
 *-orig.svg
+*.export.png
 *.png
 *.jpg
 *.txt
