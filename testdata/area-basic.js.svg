@@ -1,0 +1,61 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 453.5L765 453.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 354.5L765 354.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 256.5L765 256.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 158.5L765 158.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M198.5 551L198.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M311.5 551L311.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M425.5 551L425.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M538.5 551L538.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M651.5 551L651.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 452.8)" fill="#6E7079">300</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 354.6)" fill="#6E7079">600</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 256.4)" fill="#6E7079">900</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 158.2)" fill="#6E7079">1,200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 60)" fill="#6E7079">1,500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(85 559)" fill="#6E7079">Mon</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(198.3333 559)" fill="#6E7079">Tue</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(311.6667 559)" fill="#6E7079">Wed</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(425 559)" fill="#6E7079">Thu</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(538.3333 559)" fill="#6E7079">Fri</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(651.6667 559)" fill="#6E7079">Sat</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765 559)" fill="#6E7079">Sun</text>
+<g clip-path="url(#zr0-c0)">
+<path d="M85 282.6L198.3 245.9L311.7 256.1L425 245.3L538.3 128.7L651.7 115.6L765 118.9L765 551L651.7 551L538.3 551L425 551L311.7 551L198.3 551L85 551Z" fill="#5470c6" fill-opacity="0.7"></path>
+<path d="M85 282.6L198.3 245.9L311.7 256.1L425 245.3L538.3 128.7L651.7 115.6L765 118.9" fill="none" stroke="#5470c6" stroke-width="2" stroke-linejoin="bevel"></path>
+</g>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,85,282.5867)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,198.3333,245.9253)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,311.6667,256.0727)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,425,245.2707)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,538.3333,128.74)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,651.6667,115.6467)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,765,118.92)" fill="#fff" stroke="#5470c6"></path>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M84 59l682 0l0 493l-682 0Z" fill="#000" class="zr0-cls-0"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s linear both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M84 59l0 0l0 493l0 0Z");
+}
+100% {
+d:path("M84 59l682 0l0 493l-682 0Z");
+}
+}
+]]>
+
+</style>
+</svg>

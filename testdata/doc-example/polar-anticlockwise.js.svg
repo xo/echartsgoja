@@ -1,0 +1,32 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M425 310.5A0 0 0 1 1 425 310.5A0 0 0 0 1 425 310.5M474.7 310.5A49.7 49.7 0 1 1 474.4 305.5A49.7 49.7 0 0 1 474.7 310.5M524.4 310.5A99.4 99.4 0 1 1 523.9 300.6A99.4 99.4 0 0 1 524.4 310.5M574 310.5A149 149 0 1 1 573.3 295.6A149 149 0 0 1 574 310.5M623.7 310.5A198.7 198.7 0 1 1 622.7 290.7A198.7 198.7 0 0 1 623.7 310.5M673.4 310.5A248.4 248.4 0 1 1 672.2 285.7A248.4 248.4 0 0 1 673.4 310.5" fill="none" stroke="#E0E6F1"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="425" y="48.10000000000002" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="296.80000000000007" y="82.45108646966992" fill="#6E7079">30</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="202.95108646966995" y="176.30000000000004" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="168.60000000000002" y="310.49999999999994" fill="#6E7079">90</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="202.95108646966997" y="444.70000000000005" fill="#6E7079">120</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="296.7999999999999" y="538.54891353033" fill="#6E7079">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="424.99999999999994" y="572.9" fill="#6E7079">180</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="553.2" y="538.5489135303301" fill="#6E7079">210</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="647.04891353033" y="444.7000000000001" fill="#6E7079">240</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="681.4" y="310.50000000000006" fill="#6E7079">270</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="647.0489135303302" y="176.3000000000002" fill="#6E7079">300</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="553.1999999999999" y="82.45108646966992" fill="#6E7079">330</text>
+<path d="M425 57.1L425 62.1M298.3 91L300.8 95.4M205.5 183.8L209.9 186.3M171.6 310.5L176.6 310.5M205.5 437.2L209.9 434.7M298.3 530L300.8 525.6M425 563.9L425 558.9M551.7 530L549.2 525.6M644.5 437.2L640.1 434.7M678.4 310.5L673.4 310.5M644.5 183.8L640.1 186.3M551.7 91L549.2 95.4" fill="#000" stroke="#6E7079"></path>
+<path d="M425 62.1L425 310.5M300.8 95.4L425 310.5M209.9 186.3L425 310.5M176.6 310.5L425 310.5M209.9 434.7L425 310.5M300.8 525.6L425 310.5M425 558.9L425 310.5M549.2 525.6L425 310.5M640.1 434.7L425 310.5M673.4 310.5L425 310.5M640.1 186.3L425 310.5M549.2 95.4L425 310.5" fill="#000" stroke="#E0E6F1"></path>
+<path d="M425.5 310.5L425.5 62.1" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<circle cx="425" cy="310.5" r="248.4" fill="none" stroke="#6E7079"></circle>
+<path d="M425 310.5L420 310.5" fill="none" stroke="#6E7079"></path>
+<path d="M425 261.5L420 261.5" fill="none" stroke="#6E7079"></path>
+<path d="M425 211.5L420 211.5" fill="none" stroke="#6E7079"></path>
+<path d="M425 161.5L420 161.5" fill="none" stroke="#6E7079"></path>
+<path d="M425 112.5L420 112.5" fill="none" stroke="#6E7079"></path>
+<path d="M425 62.5L420 62.5" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 310.5)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 260.82)" fill="#6E7079">2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 211.14)" fill="#6E7079">4</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 161.46)" fill="#6E7079">6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 111.78)" fill="#6E7079">8</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 62.1)" fill="#6E7079">10</text>
+</svg>

@@ -1,0 +1,309 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<polyline points="165.2 284 175.1 272.8 190.1 272.8" fill="none" stroke="#5470c6"></polyline>
+<polyline points="171.2 330.1 183.7 338.4 198.7 338.4" fill="none" stroke="#91cc75"></polyline>
+<polyline points="134 345.1 130.8 359.7 115.8 359.7" fill="none" stroke="#fac858"></polyline>
+<polyline points="109.6 325.6 100.8 332 85.8 332" fill="none" stroke="#ee6666"></polyline>
+<polyline points="107.9 299.8 98.5 295.3 83.5 295.3" fill="none" stroke="#73c0de"></polyline>
+<polyline points="120.1 282.4 110 275.1 95 275.1" fill="none" stroke="#3ba272"></polyline>
+<polyline points="135.1 275.7 132.3 261 117.3 261" fill="none" stroke="#fc8452"></polyline>
+<polyline points="448.5 284 458.5 272.8 482 272.8" fill="none" stroke="#5470c6"></polyline>
+<polyline points="454.5 330.1 467 338.4 482 338.4" fill="none" stroke="#91cc75"></polyline>
+<polyline points="417.3 345.1 414.1 359.7 361.9 359.7" fill="none" stroke="#fac858"></polyline>
+<polyline points="393 325.6 379.4 332 361.9 332" fill="none" stroke="#ee6666"></polyline>
+<polyline points="391.2 299.8 376.9 295.3 361.9 295.3" fill="none" stroke="#73c0de"></polyline>
+<polyline points="403.5 282.4 394.4 275.1 361.9 275.1" fill="none" stroke="#3ba272"></polyline>
+<polyline points="418.4 275.7 415.6 261 361.9 261" fill="none" stroke="#fc8452"></polyline>
+<polyline points="731.8 284 741.8 272.8 788.2 272.8" fill="none" stroke="#5470c6"></polyline>
+<polyline points="737.8 330.1 750.3 338.4 766.8 338.4" fill="none" stroke="#91cc75"></polyline>
+<polyline points="700.7 345.1 697.4 359.7 639.3 359.7" fill="none" stroke="#fac858"></polyline>
+<polyline points="676.3 325.6 662.7 332 637.9 332" fill="none" stroke="#ee6666"></polyline>
+<polyline points="674.6 299.8 660.3 295.3 623.1 295.3" fill="none" stroke="#73c0de"></polyline>
+<polyline points="686.8 282.4 677.7 275.1 651.3 275.1" fill="none" stroke="#3ba272"></polyline>
+<polyline points="701.8 275.7 699 261 631.1 261" fill="none" stroke="#fc8452"></polyline>
+<path d="M141.7 275.1A35.4 35.4 0 0 1 176.8 306.3L141.7 310.5Z" fill="#5470c6" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-0"></path>
+<path d="M176.8 306.3A35.4 35.4 0 0 1 151.5 344.5L141.7 310.5Z" fill="#91cc75" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-1"></path>
+<path d="M151.5 344.5A35.4 35.4 0 0 1 118.4 337.2L141.7 310.5Z" fill="#fac858" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-2"></path>
+<path d="M118.4 337.2A35.4 35.4 0 0 1 106.3 311.4L141.7 310.5Z" fill="#ee6666" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-3"></path>
+<path d="M106.3 311.4A35.4 35.4 0 0 1 113.2 289.4L141.7 310.5Z" fill="#73c0de" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-4"></path>
+<path d="M113.2 289.4A35.4 35.4 0 0 1 128.8 277.5L141.7 310.5Z" fill="#3ba272" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-5"></path>
+<path d="M128.8 277.5A35.4 35.4 0 0 1 141.7 275.1L141.7 310.5Z" fill="#fc8452" transform-origin="141.66652499999998px 310.5px" class="zr0-cls-6"></path>
+<path d="M425 275.1A35.4 35.4 0 0 1 460.2 306.3L425 310.5Z" fill="#5470c6" transform-origin="425px 310.5px" class="zr0-cls-7"></path>
+<path d="M460.2 306.3A35.4 35.4 0 0 1 434.8 344.5L425 310.5Z" fill="#91cc75" transform-origin="425px 310.5px" class="zr0-cls-8"></path>
+<path d="M434.8 344.5A35.4 35.4 0 0 1 401.8 337.2L425 310.5Z" fill="#fac858" transform-origin="425px 310.5px" class="zr0-cls-9"></path>
+<path d="M401.8 337.2A35.4 35.4 0 0 1 389.6 311.4L425 310.5Z" fill="#ee6666" transform-origin="425px 310.5px" class="zr0-cls-10"></path>
+<path d="M389.6 311.4A35.4 35.4 0 0 1 396.5 289.4L425 310.5Z" fill="#73c0de" transform-origin="425px 310.5px" class="zr0-cls-11"></path>
+<path d="M396.5 289.4A35.4 35.4 0 0 1 412.1 277.5L425 310.5Z" fill="#3ba272" transform-origin="425px 310.5px" class="zr0-cls-12"></path>
+<path d="M412.1 277.5A35.4 35.4 0 0 1 425 275.1L425 310.5Z" fill="#fc8452" transform-origin="425px 310.5px" class="zr0-cls-13"></path>
+<path d="M708.3 275.1A35.4 35.4 0 0 1 743.5 306.3L708.3 310.5Z" fill="#5470c6" transform-origin="708.333475px 310.5px" class="zr0-cls-14"></path>
+<path d="M743.5 306.3A35.4 35.4 0 0 1 718.1 344.5L708.3 310.5Z" fill="#91cc75" transform-origin="708.333475px 310.5px" class="zr0-cls-15"></path>
+<path d="M718.1 344.5A35.4 35.4 0 0 1 685.1 337.2L708.3 310.5Z" fill="#fac858" transform-origin="708.333475px 310.5px" class="zr0-cls-16"></path>
+<path d="M685.1 337.2A35.4 35.4 0 0 1 672.9 311.4L708.3 310.5Z" fill="#ee6666" transform-origin="708.333475px 310.5px" class="zr0-cls-17"></path>
+<path d="M672.9 311.4A35.4 35.4 0 0 1 679.9 289.4L708.3 310.5Z" fill="#73c0de" transform-origin="708.333475px 310.5px" class="zr0-cls-18"></path>
+<path d="M679.9 289.4A35.4 35.4 0 0 1 695.4 277.5L708.3 310.5Z" fill="#3ba272" transform-origin="708.333475px 310.5px" class="zr0-cls-19"></path>
+<path d="M695.4 277.5A35.4 35.4 0 0 1 708.3 275.1L708.3 310.5Z" fill="#fc8452" transform-origin="708.333475px 310.5px" class="zr0-cls-20"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(195.129 272.7893)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apples</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(203.677 338.374)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Strawberries</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(110.7756 359.7263)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Bananas</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(80.7867 332.0042)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Oranges</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(78.4742 295.3187)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pears</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(89.9728 275.0588)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapples</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(112.3118 260.9588)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grapes</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(487.0105 272.7892)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apples</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(487.0105 338.3741)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Strawberries</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(356.9233 359.7264)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Bananas</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(356.9233 332.0042)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Oranges</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(356.9233 295.3186)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pears</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(356.9233 275.0587)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapples</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(356.9233 260.9587)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grapes</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(830 272.7893)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apples</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(830 338.374)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Strawber...</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(586.667 359.7263)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Bananas</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(586.667 332.0042)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Oranges</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(586.667 295.3187)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pears</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(586.667 275.0588)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapples</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(586.667 260.9588)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grapes</text>
+<path d="M-71.8 -5l143.6 0l0 28l-143.6 0Z" transform="translate(425 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-69.5 -5l139 0l0 32l-139 0Z" transform="translate(146.695 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-56.4 -5l112.8 0l0 32l-112.8 0Z" transform="translate(430 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-45.7 -5l91.5 0l0 32l-91.5 0Z" transform="translate(713.305 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(425 5)" fill="#464646">Pie label alignTo</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(146.695 470.75)" fill="#6E7079">alignTo: &quot;none&quot; (default)</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(430 470.75)" fill="#6E7079">alignTo: &quot;labelLine&quot;</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(713.305 470.75)" fill="#6E7079">alignTo: &quot;edge&quot;</text>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-7 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-8 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-9 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-10 {
+animation:zr0-ani-10 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-11 {
+animation:zr0-ani-11 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-12 {
+animation:zr0-ani-12 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-13 {
+animation:zr0-ani-13 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-14 {
+animation:zr0-ani-14 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-15 {
+animation:zr0-ani-15 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-16 {
+animation:zr0-ani-16 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-17 {
+animation:zr0-ani-17 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-18 {
+animation:zr0-ani-18 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-19 {
+animation:zr0-ani-19 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-20 {
+animation:zr0-ani-20 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-7 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-8 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-9 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-10 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-11 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-12 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-13 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-14 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-15 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-16 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-17 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-18 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-19 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-20 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+]]>
+
+</style>
+</svg>

@@ -1,0 +1,297 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<polyline points="484.5 95.8 499.4 93.9 538 93.9" fill="none" stroke="#5470c6"></polyline>
+<polyline points="425 163.5 425 178.5 502 178.5" fill="none" stroke="#91cc75"></polyline>
+<polyline points="398.2 157.2 391.5 187.4 366.7 187.4" fill="none" stroke="#fac858"></polyline>
+<polyline points="382 145.4 371.3 151.3 324 151.3" fill="none" stroke="#ee6666"></polyline>
+<polyline points="372.8 133 357.3 114.2 300 114.2" fill="none" stroke="#73c0de"></polyline>
+<polyline points="375.2 70 362.8 61.6 276.8 61.6" fill="none" stroke="#3ba272"></polyline>
+<polyline points="464.7 265.3 474.7 254.1 495.3 254.1" fill="none" stroke="#fc8452"></polyline>
+<polyline points="482.1 328.8 496.3 333.5 526 333.5" fill="none" stroke="#9a60b4"></polyline>
+<polyline points="448.4 365.6 454.2 379.4 550 379.4" fill="none" stroke="#ea7ccc"></polyline>
+<polyline points="409.2 368.2 405.2 395.2 405.2 395.2" fill="none" stroke="#5470c6"></polyline>
+<polyline points="384.4 354.5 374.3 358.1 302 358.1" fill="none" stroke="#91cc75"></polyline>
+<polyline points="371.9 282.3 358.7 275.3 276.8 275.3" fill="none" stroke="#3ba272"></polyline>
+<polyline points="468.1 475.4 478.9 465 562 465" fill="none" stroke="#fac858"></polyline>
+<polyline points="471.8 554.6 483.5 564 526 564" fill="none" stroke="#ee6666"></polyline>
+<polyline points="416.8 576.5 414.7 602 300 602" fill="none" stroke="#73c0de"></polyline>
+<polyline points="380 556.7 368.7 564.9 348 564.9" fill="none" stroke="#3ba272"></polyline>
+<polyline points="367.4 534 353.1 527.8 300 527.8" fill="none" stroke="#73c0de"></polyline>
+<polyline points="379.1 478.4 367.6 468.8 276.8 468.8" fill="none" stroke="#3ba272"></polyline>
+<path d="M425 43.5A60 60 0 0 1 440.3 161.5L430.1 122.8A20 20 0 0 0 425 83.5Z" fill="#5470c6" stroke="#fff" stroke-linejoin="round" transform-origin="425px 103.48965px" class="zr0-cls-0"></path>
+<path d="M440.3 161.5A60 60 0 0 1 409.7 161.5L419.9 122.8A20 20 0 0 0 430.1 122.8Z" fill="#91cc75" stroke="#fff" stroke-linejoin="round" transform-origin="425px 103.48965px" class="zr0-cls-1"></path>
+<path d="M409.7 161.5A60 60 0 0 1 387.8 150.5L412.6 119.2A20 20 0 0 0 419.9 122.8Z" fill="#fac858" stroke="#fff" stroke-linejoin="round" transform-origin="425px 103.48965px" class="zr0-cls-2"></path>
+<path d="M387.8 150.5A60 60 0 0 1 377 139.5L409 115.5A20 20 0 0 0 412.6 119.2Z" fill="#ee6666" stroke="#fff" stroke-linejoin="round" transform-origin="425px 103.48965px" class="zr0-cls-3"></path>
+<path d="M377 139.5A60 60 0 0 1 369.4 126.1L406.5 111A20 20 0 0 0 409 115.5Z" fill="#73c0de" stroke="#fff" stroke-linejoin="round" transform-origin="425px 103.48965px" class="zr0-cls-4"></path>
+<path d="M369.4 126.1A60 60 0 0 1 425 43.5L425 83.5A20 20 0 0 0 406.5 111Z" fill="#3ba272" stroke="#fff" stroke-linejoin="round" transform-origin="425px 103.48965px" class="zr0-cls-5"></path>
+<path d="M425 250.3A60 60 0 0 1 484.5 302.9L444.8 307.8A20 20 0 0 0 425 290.3Z" fill="#fc8452" stroke="#fff" stroke-linejoin="round" transform-origin="425px 310.28265px" class="zr0-cls-6"></path>
+<path d="M484.5 302.9A60 60 0 0 1 468.8 351.3L439.6 323.9A20 20 0 0 0 444.8 307.8Z" fill="#9a60b4" stroke="#fff" stroke-linejoin="round" transform-origin="425px 310.28265px" class="zr0-cls-7"></path>
+<path d="M468.8 351.3A60 60 0 0 1 423.9 370.3L424.6 330.3A20 20 0 0 0 439.6 323.9Z" fill="#ea7ccc" stroke="#fff" stroke-linejoin="round" transform-origin="425px 310.28265px" class="zr0-cls-8"></path>
+<path d="M423.9 370.3A60 60 0 0 1 395.5 362.5L415.2 327.7A20 20 0 0 0 424.6 330.3Z" fill="#5470c6" stroke="#fff" stroke-linejoin="round" transform-origin="425px 310.28265px" class="zr0-cls-9"></path>
+<path d="M395.5 362.5A60 60 0 0 1 375.5 344.1L408.5 321.6A20 20 0 0 0 415.2 327.7Z" fill="#91cc75" stroke="#fff" stroke-linejoin="round" transform-origin="425px 310.28265px" class="zr0-cls-10"></path>
+<path d="M375.5 344.1A60 60 0 0 1 425 250.3L425 290.3A20 20 0 0 0 408.5 321.6Z" fill="#3ba272" stroke="#fff" stroke-linejoin="round" transform-origin="425px 310.28265px" class="zr0-cls-11"></path>
+<path d="M425 457.1A60 60 0 0 1 485 519.1L445 517.8A20 20 0 0 0 425 497.1Z" fill="#fac858" stroke="#fff" stroke-linejoin="round" transform-origin="425px 517.07565px" class="zr0-cls-12"></path>
+<path d="M485 519.1A60 60 0 0 1 440 575.2L430 536.4A20 20 0 0 0 445 517.8Z" fill="#ee6666" stroke="#fff" stroke-linejoin="round" transform-origin="425px 517.07565px" class="zr0-cls-13"></path>
+<path d="M440 575.2A60 60 0 0 1 394.8 568.9L414.9 534.4A20 20 0 0 0 430 536.4Z" fill="#73c0de" stroke="#fff" stroke-linejoin="round" transform-origin="425px 517.07565px" class="zr0-cls-14"></path>
+<path d="M394.8 568.9A60 60 0 0 1 369.8 540.5L406.6 524.9A20 20 0 0 0 414.9 534.4Z" fill="#3ba272" stroke="#fff" stroke-linejoin="round" transform-origin="425px 517.07565px" class="zr0-cls-15"></path>
+<path d="M369.8 540.5A60 60 0 0 1 365.9 527.3L405.3 520.5A20 20 0 0 0 406.6 524.9Z" fill="#73c0de" stroke="#fff" stroke-linejoin="round" transform-origin="425px 517.07565px" class="zr0-cls-16"></path>
+<path d="M365.9 527.3A60 60 0 0 1 425 457.1L425 497.1A20 20 0 0 0 405.3 520.5Z" fill="#3ba272" stroke="#fff" stroke-linejoin="round" transform-origin="425px 517.07565px" class="zr0-cls-17"></path>
+<path d="M-72 -15l72 0l0 30l-72 0Z" transform="translate(615 93.8598)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 93.8598)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">圣彼得堡来客</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 93.8598)" fill="#999">5.6 小时</text>
+<path d="M-108 -15l108 0l0 30l-108 0Z" transform="translate(615 178.4896)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 178.4896)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">陀思妥耶夫斯基全集</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 178.4896)" fill="#999">1 小时</text>
+<path d="M0 -15l126.7 0l0 30l-126.7 0Z" transform="translate(235 187.4293)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 187.4293)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">史记精注全译（全6册）</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 187.4293)" fill="#999">0.8 小时</text>
+<path d="M0 -15l84 0l0 30l-84 0Z" transform="translate(235 151.3293)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 151.3293)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">加德纳艺术通史</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 151.3293)" fill="#999">0.5 小时</text>
+<path d="M0 -15l60 0l0 30l-60 0Z" transform="translate(235 114.2293)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 114.2293)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">表象与本质</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 114.2293)" fill="#999">0.5 小时</text>
+<path d="M0 -15l36.8 0l0 30l-36.8 0Z" transform="translate(235 61.6214)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 61.6214)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">其它</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 61.6214)" fill="#999">3.8 小时</text>
+<path d="M-114.7 -15l114.7 0l0 30l-114.7 0Z" transform="translate(615 254.0716)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 254.0716)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">银河帝国5：迈向基地</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 254.0716)" fill="#999">3.8 小时</text>
+<path d="M-84 -15l84 0l0 30l-84 0Z" transform="translate(615 333.4589)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 333.4589)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">俞军产品方法论</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 333.4589)" fill="#999">2.3 小时</text>
+<path d="M-60 -15l60 0l0 30l-60 0Z" transform="translate(615 379.3669)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 379.3669)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">艺术的逃难</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 379.3669)" fill="#999">2.2 小时</text>
+<path d="M0 -15l165.2 0l0 30l-165.2 0Z" transform="translate(235 395.2223)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 395.2223)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">第一次世界大战回忆录（全...</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 395.2223)" fill="#999">1.3 小时</text>
+<path d="M0 -15l62 0l0 30l-62 0Z" transform="translate(235 358.1223)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" xml:space="preserve" y="-7.5" transform="translate(235 358.1223)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Scrum 精髓</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 358.1223)" fill="#999">1.2 小时</text>
+<path d="M0 -15l36.8 0l0 30l-36.8 0Z" transform="translate(235 275.2826)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 275.2826)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">其它</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 275.2826)" fill="#999">5.7 小时</text>
+<path d="M-48 -15l48 0l0 30l-48 0Z" transform="translate(615 464.9625)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 464.9625)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">克莱因壶</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 464.9625)" fill="#999">3.5 小时</text>
+<path d="M-84 -15l84 0l0 30l-84 0Z" transform="translate(615 564.0292)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="end" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(615 564.0292)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">投资最重要的事</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(615 564.0292)" fill="#999">2.8 小时</text>
+<path d="M0 -15l60 0l0 30l-60 0Z" transform="translate(235 602.0153)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 602.0153)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">简读中国史</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 602.0153)" fill="#999">1.7 小时</text>
+<path d="M0 -15l108 0l0 30l-108 0Z" transform="translate(235 564.9153)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 564.9153)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">你当像鸟飞往你的山</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 564.9153)" fill="#999">1.4 小时</text>
+<path d="M0 -15l60 0l0 30l-60 0Z" transform="translate(235 527.8153)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 527.8153)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">表象与本质</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 527.8153)" fill="#999">0.5 小时</text>
+<path d="M0 -15l36.8 0l0 30l-36.8 0Z" transform="translate(235 468.7934)" fill="none"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" y="-7.5" transform="translate(235 468.7934)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">其它</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" xml:space="preserve" y="7.5" transform="translate(235 468.7934)" fill="#999">3.8 小时</text>
+<path d="M-47 -5l94 0l0 24l-94 0Z" transform="translate(425 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;" y="7" transform="translate(425 5)" fill="#999">阅读书籍分布</text>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-7 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-8 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-9 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-10 {
+animation:zr0-ani-10 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-11 {
+animation:zr0-ani-11 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-12 {
+animation:zr0-ani-12 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-13 {
+animation:zr0-ani-13 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-14 {
+animation:zr0-ani-14 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-15 {
+animation:zr0-ani-15 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-16 {
+animation:zr0-ani-16 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-17 {
+animation:zr0-ani-17 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-7 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-8 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-9 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-10 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-11 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-12 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-13 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-14 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-15 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-16 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-17 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+]]>
+
+</style>
+</svg>

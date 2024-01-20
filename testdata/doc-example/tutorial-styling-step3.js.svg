@@ -1,0 +1,82 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="#2c343c"></rect>
+<polyline points="470.9 221.3 510 145.3 525 145.3" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.3"></polyline>
+<polyline points="541.7 302.7 610.4 298.1 625.4 298.1" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.3"></polyline>
+<polyline points="483.4 429.3 507 477.2 522 477.2" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.3"></polyline>
+<polyline points="317.8 405.2 285.8 433.5 270.8 433.5" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.3"></polyline>
+<polyline points="301.5 192.6 290.6 182.2 275.6 182.2" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.3"></polyline>
+<path d="M425 210.2A100.3 100.3 0 0 1 506.6 252.2L425 310.5Z" fill="#5470c6" filter="url(#zr0-s0)" transform-origin="425px 310.5px" class="zr0-cls-0"></path>
+<path d="M520.2 242.5A117 117 0 0 1 528.4 365.3L425 310.5Z" fill="#91cc75" filter="url(#zr0-s0)" transform-origin="425px 310.5px" class="zr0-cls-1"></path>
+<path d="M542 372.5A132.4 132.4 0 0 1 402.6 440.9L425 310.5Z" fill="#fac858" filter="url(#zr0-s0)" transform-origin="425px 310.5px" class="zr0-cls-2"></path>
+<path d="M400.8 451.5A143 143 0 0 1 282.1 317.1L425 310.5Z" fill="#ee6666" filter="url(#zr0-s0)" transform-origin="425px 310.5px" class="zr0-cls-3"></path>
+<path d="M254.4 318.4A170.8 170.8 0 0 1 425 139.7L425 310.5Z" fill="#73c0de" filter="url(#zr0-s0)" transform-origin="425px 310.5px" class="zr0-cls-4"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(529.9753 145.2984)" fill="rgb(255,255,255)" fill-opacity="0.3">视频广告</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(630.3617 298.1155)" fill="rgb(255,255,255)" fill-opacity="0.3">联盟广告</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(526.9556 477.2202)" fill="rgb(255,255,255)" fill-opacity="0.3">邮件营销</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(265.7923 433.5185)" fill="rgb(255,255,255)" fill-opacity="0.3">直接访问</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(270.619 182.2265)" fill="rgb(255,255,255)" fill-opacity="0.3">搜索引擎</text>
+<defs >
+<filter id="zr0-s0" x="-100%" y="-100%" width="300%" height="300%">
+<feDropShadow dx="0" dy="0" stdDeviation="100 100" flood-color="rgb(0,0,0)" flood-opacity="0.5"></feDropShadow>
+</filter>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+transform:scale(0,0);
+}
+100% {
+
+}
+}
+]]>
+
+</style>
+</svg>

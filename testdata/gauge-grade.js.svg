@@ -1,0 +1,92 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M622.6 268.1A279.5 279.5 0 0 1 704.5 465.7L698.5 465.7A273.5 273.5 0 0 0 618.4 272.4Z" fill="#7CFFB2"></path>
+<path d="M425 186.3A279.5 279.5 0 0 1 622.6 268.1L618.4 272.4A273.5 273.5 0 0 0 425 192.3Z" fill="#58D9F9"></path>
+<path d="M227.4 268.1A279.5 279.5 0 0 1 425 186.3L425 192.3A273.5 273.5 0 0 0 231.6 272.4Z" fill="#FDDD60"></path>
+<path d="M145.6 465.8A279.5 279.5 0 0 1 227.4 268.1L231.6 272.4A273.5 273.5 0 0 0 151.6 465.8Z" fill="#FF6E76"></path>
+<path d="M161.6 465.8L181.6 465.8" fill="none" stroke="#FF6E76" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="115.55000000000001" y="465.75000000000006" transform="matrix(0,-1,1,0,-350.2,581.3)" fill="#464646">0</text>
+<path d="M161.6 465.8L173.6 465.8" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M162.4 445.1L174.3 446" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M164.8 424.5L176.6 426.4" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M168.8 404.2L180.5 407.1" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M174.4 384.3L185.9 388" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M181.6 364.9L192.7 369.5" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M181.6 364.9L200.1 372.6" fill="none" stroke="#FF6E76" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="139.1054786643823" y="347.328611854623" transform="matrix(0.383,-0.924,0.924,0.383,-235.0177,342.9284)" fill="#464646">0.125</text>
+<path d="M181.6 364.9L192.7 369.5" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M190.3 346.1L201 351.6" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M200.4 328.1L210.6 334.4" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M211.9 310.9L221.6 318" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M224.7 294.7L233.8 302.4" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M238.7 279.5L247.2 287.9" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M238.7 279.5L252.9 293.6" fill="none" stroke="#FF6E76" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="206.18580656182277" y="246.935806561823" transform="matrix(0.707,-0.707,0.707,0.707,-114.2196,218.1212)" fill="#464646">0.25</text>
+<path d="M238.7 279.5L247.2 287.9" fill="none" stroke="#FF6E76" stroke-width="2"></path>
+<path d="M253.9 265.4L261.7 274.5" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M270.1 252.6L277.2 262.3" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M287.3 241.1L293.6 251.4" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M305.4 231L310.8 241.7" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M324.2 222.4L328.8 233.4" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M324.2 222.4L331.8 240.8" fill="none" stroke="#FDDD60" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="306.5786118546233" y="179.8554786643822" transform="matrix(0.924,-0.383,0.383,0.924,-45.4908,131.0132)" fill="#464646">0.375</text>
+<path d="M324.2 222.4L328.8 233.4" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M343.6 215.2L347.3 226.6" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M363.5 209.6L366.3 221.2" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M383.8 205.5L385.7 217.4" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M404.3 203.1L405.3 215.1" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M425 202.3L425 214.3" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M425 202.3L425 222.3" fill="none" stroke="#FDDD60" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="425.000000000001" y="156.3" fill="#464646">0.5</text>
+<path d="M425 202.3L425 214.3" fill="none" stroke="#FDDD60" stroke-width="2"></path>
+<path d="M445.7 203.1L444.7 215.1" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M466.2 205.5L464.3 217.4" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M486.5 209.6L483.7 221.2" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M506.4 215.2L502.7 226.6" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M525.8 222.4L521.2 233.4" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M525.8 222.4L518.2 240.8" fill="none" stroke="#58D9F9" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="543.4213881453786" y="179.85547866438304" transform="matrix(0.924,0.383,-0.383,0.924,110.1932,-194.2677)" fill="#464646">0.625</text>
+<path d="M525.8 222.4L521.2 233.4" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M544.6 231L539.2 241.7" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M562.7 241.1L556.4 251.4" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M579.9 252.6L572.8 262.3" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M596.1 265.4L588.3 274.5" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M611.3 279.5L602.8 287.9" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M611.3 279.5L597.1 293.6" fill="none" stroke="#58D9F9" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="643.8141934381788" y="246.9358065618246" transform="matrix(0.707,0.707,-0.707,0.707,363.1788,-382.9196)" fill="#464646">0.75</text>
+<path d="M611.3 279.5L602.8 287.9" fill="none" stroke="#58D9F9" stroke-width="2"></path>
+<path d="M625.3 294.7L616.2 302.4" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M638.1 310.9L628.4 318" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M649.6 328.1L639.4 334.4" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M659.7 346.1L649 351.6" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M668.4 364.9L657.3 369.5" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M668.4 364.9L649.9 372.6" fill="none" stroke="#7CFFB2" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="710.894521335619" y="347.3286118546258" transform="matrix(0.383,0.924,-0.924,0.383,759.7368,-442.3692)" fill="#464646">0.875</text>
+<path d="M668.4 364.9L657.3 369.5" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M675.6 384.3L664.1 388" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M681.2 404.2L669.5 407.1" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M685.2 424.5L673.4 426.4" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M687.6 445.1L675.7 446" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M688.5 465.8L676.5 465.8" fill="none" stroke="#7CFFB2" stroke-width="2"></path>
+<path d="M688.5 465.8L668.5 465.8" fill="none" stroke="#7CFFB2" stroke-width="5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="734.45" y="465.75000000000375" transform="matrix(0,1,-1,0,1200.2,-268.7)" fill="#464646">1</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" xml:space="preserve" x="425" y="437.805" fill="#464646">Grade Rating</text>
+<path d="M365 347.9l120 0l0 40l-120 0Z" fill="rgb(0,0,0)" fill-opacity="0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:30px;font-family:sans-serif;font-weight:bold;" x="425" y="367.9425" fill="#58D9F9">0.7</text>
+<path d="M0 -201.2L10 -167.7L-10 -167.7L0 -201.2Z" transform="matrix(0.809,0.588,-0.588,0.809,425,465.75)" fill="#58D9F9" class="zr0-cls-0"></path>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+transform:translate(425px,465.75px) rotate(-270);
+}
+100% {
+transform:translate(425px,465.75px) rotate(-396);
+}
+}
+]]>
+
+</style>
+</svg>

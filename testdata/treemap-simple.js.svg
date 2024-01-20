@@ -1,0 +1,23 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M0 0l680 0l0 496.8l-680 0Z" transform="translate(85 62.1)" fill="#fff"></path>
+<path d="M0 0l453.3 0l0 496.8l-453.3 0Z" transform="translate(85 62.1)" fill="#fff"></path>
+<path d="M0 0l226.7 0l0 496.8l-226.7 0Z" transform="translate(538.3333 62.1)" fill="#fff"></path>
+<path d="M0 0l453.3 0l0 496.8l-453.3 0Z" transform="translate(85 62.1)" fill="#fff"></path>
+<path d="M0 0l226.7 0l0 298.1l-226.7 0Z" transform="translate(538.3333 62.1)" fill="#fff"></path>
+<path d="M0 0l226.7 0l0 198.7l-226.7 0Z" transform="translate(538.3333 360.18)" fill="#fff"></path>
+<path d="M0 0l226.7 0l0 298.1l-226.7 0Z" transform="translate(538.3333 62.1)" fill="#91cc75"></path>
+<path d="M0 0l226.7 0l0 198.7l-226.7 0Z" transform="translate(538.3333 360.18)" fill="#91cc75"></path>
+<path d="M0 0l453.3 0l0 496.8l-453.3 0Z" transform="translate(85 62.1)" fill="#fff"></path>
+<path d="M0 0l453.3 0l0 496.8l-453.3 0Z" transform="translate(85 62.1)" fill="#5470c6"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(311.6667 310.5)" fill="#fff">nodeBa1</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(651.6667 211.14)" fill="#fff">nodeAb</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(651.6667 459.54)" fill="#fff">nodeAa</text>
+<polygon points="0 0 25 0 30 11 25 22 0 22" transform="translate(314.04 599)" fill="rgb(0,0,0)" fill-opacity="0.7"></polygon>
+<polygon points="28 0 83.9 0 88.9 11 83.9 22 28 22 33 11" transform="translate(314.04 599)" fill="rgb(0,0,0)" fill-opacity="0.7"></polygon>
+<polygon points="86.9 0 149.6 0 154.6 11 149.6 22 86.9 22 91.9 11" transform="translate(314.04 599)" fill="rgb(0,0,0)" fill-opacity="0.7"></polygon>
+<polygon points="152.6 0 221.9 0 221.9 22 152.6 22 157.6 11" transform="translate(314.04 599)" fill="rgb(0,0,0)" fill-opacity="0.7"></polygon>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(372.5 610)" fill="#fff">nodeB</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(434.78 610)" fill="#fff">nodeBa</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(501.28 610)" fill="#fff">nodeBa1</text>
+</svg>

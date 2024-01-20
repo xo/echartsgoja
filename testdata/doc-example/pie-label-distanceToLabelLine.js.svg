@@ -1,0 +1,51 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<polyline points="247.8 270.8 257.7 259.5 284.3 259.5" fill="none" stroke="#5470c6"></polyline>
+<polyline points="256.8 339.9 269.3 348.2 284.3 348.2" fill="none" stroke="#91cc75"></polyline>
+<polyline points="201 362.4 197.8 377 132.5 377" fill="none" stroke="#fac858"></polyline>
+<polyline points="164.4 333.2 150.9 339.6 132.5 339.6" fill="none" stroke="#ee6666"></polyline>
+<polyline points="161.8 294.5 147.5 290 132.5 290" fill="none" stroke="#73c0de"></polyline>
+<polyline points="180.2 268.3 171.1 257.7 132.5 257.7" fill="none" stroke="#3ba272"></polyline>
+<polyline points="202.6 258.3 199.9 243.6 132.5 243.6" fill="none" stroke="#fc8452"></polyline>
+<polyline points="672.8 270.8 682.7 259.5 709.3 259.5" fill="none" stroke="#5470c6"></polyline>
+<polyline points="681.8 339.9 694.3 348.2 709.3 348.2" fill="none" stroke="#91cc75"></polyline>
+<polyline points="626 362.4 622.8 377 557.5 377" fill="none" stroke="#fac858"></polyline>
+<polyline points="589.4 333.2 575.9 339.6 557.5 339.6" fill="none" stroke="#ee6666"></polyline>
+<polyline points="586.8 294.5 572.5 290 557.5 290" fill="none" stroke="#73c0de"></polyline>
+<polyline points="605.2 268.3 596.1 257.7 557.5 257.7" fill="none" stroke="#3ba272"></polyline>
+<polyline points="627.6 258.3 624.9 243.6 557.5 243.6" fill="none" stroke="#fc8452"></polyline>
+<path d="M212.5 257.4A53.1 53.1 0 0 1 265.2 304.2L212.5 310.5Z" fill="#5470c6"></path>
+<path d="M265.2 304.2A53.1 53.1 0 0 1 227.2 361.6L212.5 310.5Z" fill="#91cc75"></path>
+<path d="M227.2 361.6A53.1 53.1 0 0 1 177.7 350.6L212.5 310.5Z" fill="#fac858"></path>
+<path d="M177.7 350.6A53.1 53.1 0 0 1 159.4 311.9L212.5 310.5Z" fill="#ee6666"></path>
+<path d="M159.4 311.9A53.1 53.1 0 0 1 169.8 278.9L212.5 310.5Z" fill="#73c0de"></path>
+<path d="M169.8 278.9A53.1 53.1 0 0 1 193.1 261L212.5 310.5Z" fill="#3ba272"></path>
+<path d="M193.1 261A53.1 53.1 0 0 1 212.5 257.4L212.5 310.5Z" fill="#fc8452"></path>
+<path d="M637.5 257.4A53.1 53.1 0 0 1 690.2 304.2L637.5 310.5Z" fill="#5470c6"></path>
+<path d="M690.2 304.2A53.1 53.1 0 0 1 652.2 361.6L637.5 310.5Z" fill="#91cc75"></path>
+<path d="M652.2 361.6A53.1 53.1 0 0 1 602.7 350.6L637.5 310.5Z" fill="#fac858"></path>
+<path d="M602.7 350.6A53.1 53.1 0 0 1 584.4 311.9L637.5 310.5Z" fill="#ee6666"></path>
+<path d="M584.4 311.9A53.1 53.1 0 0 1 594.8 278.9L637.5 310.5Z" fill="#73c0de"></path>
+<path d="M594.8 278.9A53.1 53.1 0 0 1 618.1 261L637.5 310.5Z" fill="#3ba272"></path>
+<path d="M618.1 261A53.1 53.1 0 0 1 637.5 257.4L637.5 310.5Z" fill="#fc8452"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(289.2662 259.5438)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apple Numbers</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(289.2662 348.1645)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Strawberry Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(127.5369 377.0165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Banana Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(127.5369 339.5573)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Orange Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(127.5369 289.9864)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pear Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(127.5369 257.658)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapple Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(127.5369 243.558)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grape Numbers</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(729.2662 259.5438)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apple Numbers</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(729.2662 348.1645)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Strawberry Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(537.5369 377.0165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Banana Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(537.5369 339.5573)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Orange Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(537.5369 289.9864)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pear Numbers</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(537.5369 257.658)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapple Numb...</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(537.5369 243.558)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grape Numbers</text>
+<path d="M-5 -5l139.4 0l0 28l-139.4 0Z" transform="translate(5 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-67.3 -5l134.7 0l0 32l-134.7 0Z" transform="translate(217.5 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-70.7 -5l141.4 0l0 32l-141.4 0Z" transform="translate(642.5 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(5 5)" fill="#464646">Pie label margin</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(217.5 470.75)" fill="#6E7079">distanceToLabelLine: 5</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(642.5 470.75)" fill="#6E7079">distanceToLabelLine: 20</text>
+</svg>

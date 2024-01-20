@@ -1,0 +1,450 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M425 240.6A69.9 69.9 0 1 1 355.2 313.3L425 310.5Z" fill="rgb(249,136,98)" stroke="white" stroke-linejoin="bevel"></path>
+<path d="M425 170.8A139.7 139.7 0 0 1 517.7 415.1L471.3 362.8A69.9 69.9 0 0 0 425 240.6Z" fill="rgb(249,136,98)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-0"></path>
+<path d="M425 100.9A209.6 209.6 0 0 1 576.2 165.3L525.8 213.7A139.7 139.7 0 0 0 425 170.8Z" fill="rgb(215,208,118)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-1"></path>
+<path d="M425 31.1A279.5 279.5 0 0 1 513.5 45.4L491.4 111.7A209.6 209.6 0 0 0 425 100.9Z" fill="rgb(123,176,166)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-2"></path>
+<path d="M576.2 165.3A209.6 209.6 0 0 1 633.1 285.2L563.7 293.7A139.7 139.7 0 0 0 525.8 213.7Z" fill="rgb(190,201,133)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-3"></path>
+<path d="M633.1 285.2A209.6 209.6 0 0 1 630.4 352.4L561.9 338.4A139.7 139.7 0 0 0 563.7 293.7Z" fill="rgb(123,176,166)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-4"></path>
+<path d="M517.7 415.1A139.7 139.7 0 0 1 316.8 398.9L370.9 354.7A69.9 69.9 0 0 0 471.3 362.8Z" fill="rgb(249,136,98)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-5"></path>
+<path d="M564 467.4A209.6 209.6 0 0 1 408.1 519.4L413.8 449.8A139.7 139.7 0 0 0 517.7 415.1Z" fill="rgb(215,208,118)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-6"></path>
+<path d="M408.1 519.4A209.6 209.6 0 0 1 374.8 514L391.6 446.2A139.7 139.7 0 0 0 413.8 449.8Z" fill="rgb(85,162,183)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-7"></path>
+<path d="M316.8 398.9A139.7 139.7 0 0 1 285.4 316.1L355.2 313.3A69.9 69.9 0 0 0 370.9 354.7Z" fill="rgb(190,201,133)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-8"></path>
+<path d="M262.7 443.1A209.6 209.6 0 0 1 215.6 318.9L285.4 316.1A139.7 139.7 0 0 0 316.8 398.9Z" fill="rgb(190,201,133)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-9"></path>
+<path d="M355.2 313.3A69.9 69.9 0 0 1 392.5 248.6L425 310.5Z" fill="rgb(254,211,93)" stroke="white" stroke-linejoin="bevel"></path>
+<path d="M285.4 316.1A139.7 139.7 0 0 1 360.1 186.8L392.5 248.6A69.9 69.9 0 0 0 355.2 313.3Z" fill="rgb(254,211,93)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-10"></path>
+<path d="M215.6 318.9A209.6 209.6 0 0 1 252.5 191.4L310 231.1A139.7 139.7 0 0 0 285.4 316.1Z" fill="rgb(190,201,133)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-11"></path>
+<path d="M145.8 321.8A279.5 279.5 0 0 1 156.6 232.8L223.7 252.2A209.6 209.6 0 0 0 215.6 318.9Z" fill="rgb(123,176,166)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-12"></path>
+<path d="M252.5 191.4A209.6 209.6 0 0 1 327.6 124.9L360.1 186.8A139.7 139.7 0 0 0 310 231.1Z" fill="rgb(161,191,149)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-13"></path>
+<path d="M392.5 248.6A69.9 69.9 0 0 1 425 240.6L425 310.5Z" fill="rgb(161,191,149)" stroke="white" stroke-linejoin="bevel"></path>
+<path d="M360.1 186.8A139.7 139.7 0 0 1 425 170.8L425 240.6A69.9 69.9 0 0 0 392.5 248.6Z" fill="rgb(161,191,149)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-14"></path>
+<path d="M327.6 124.9A209.6 209.6 0 0 1 391.4 103.6L402.6 172.6A139.7 139.7 0 0 0 360.1 186.8Z" fill="rgb(123,176,166)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-15"></path>
+<path d="M391.4 103.6A209.6 209.6 0 0 1 425 100.9L425 170.8A139.7 139.7 0 0 0 402.6 172.6Z" fill="rgb(85,162,183)" stroke="white" stroke-linejoin="bevel" class="zr0-cls-16"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.721,0.693,-0.693,0.721,450.1925,334.6977)" fill="#333">Grandpa</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.935,-0.355,0.355,0.935,522.9839,273.3396)" fill="#333">Uncle Leo</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.392,-0.92,0.92,0.392,493.4594,149.8198)" fill="#333">Cousin Mary</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.16,-0.987,0.987,0.16,464.2236,69.1477)" fill="#333">Jackson</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.903,-0.429,0.429,0.903,582.7933,235.6262)" fill="#333">Cousin Ben</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.999,0.04,-0.04,0.999,599.5146,317.5327)" fill="#333">Cousin Jack</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.08,-0.997,0.997,0.08,416.5676,414.9539)" fill="#333">Father</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.317,0.949,-0.949,0.317,480.308,476.1678)" fill="#333">Me</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.16,-0.987,0.987,0.16,396.9832,482.8945)" fill="#333">Brother Peter</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.935,-0.355,0.355,0.935,327.0161,347.6604)" fill="#333">Aunt Jane</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.935,-0.355,0.355,0.935,261.6936,372.434)" fill="#333">Cousin Kate</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.866,0.5,-0.5,0.866,394.7487,293.0344)" fill="#333">Mike</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.866,0.5,-0.5,0.866,334.246,258.1031)" fill="#333">Uncle Dan</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.961,0.278,-0.278,0.961,257.2395,261.9076)" fill="#333">Cousin Luck</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.993,0.121,-0.121,0.993,182.2641,281.0265)" fill="#333">Nephew</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.663,0.749,-0.749,0.663,309.1815,179.7679)" fill="#333">Cousin Lucy</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="matrix(0.239,0.971,-0.971,0.239,416.6404,276.5838)" fill="#333">Nancy</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.239,0.971,-0.971,0.239,399.9212,208.7514)" fill="#333">Uncle Nike</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.317,0.949,-0.949,0.317,369.692,144.8322)" fill="#333">Cousin Jenny</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="matrix(0.08,0.997,-0.997,0.08,410.946,136.4101)" fill="#333">Cousin Betty</text>
+<path d="M-5 -145l30 0l0 150l-30 0Z" transform="translate(5 616)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<g clip-path="url(#zr0-c0)">
+<polygon points="0 0 20 0 20 140 0 140" transform="matrix(1,0,0,-1,5,616)" fill="url(#zr0-g0)"></polygon>
+<polygon points="0 0 20 0 20 140 0 140" transform="matrix(1,0,0,-1,5,616)" fill="url(#zr0-g1)"></polygon>
+</g>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M3 0L17 0A3 3 0 0 1 20 3L20 137A3 3 0 0 1 17 140L3 140A3 3 0 0 1 0 137L0 3A3 3 0 0 1 3 0" transform="matrix(1,0,0,-1,5,616)" fill="#000"></path>
+</clipPath>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="0" y2="1" id="zr0-g0">
+<stop offset="0%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="1%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="2%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="3%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="4%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="5%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="6%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="7.000000000000001%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="8%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="9%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="10%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="11%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="12%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="13%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="14.000000000000002%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="15%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="16%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="17%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="18%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="19%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="20%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="21%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="22%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="23%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="24%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="25%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="26%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="27%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="28.000000000000004%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="28.999999999999996%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="30%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="31%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="32%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="33%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="34%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="35%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="36%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="37%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="38%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="39%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="40%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="41%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="42%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="43%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="44%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="45%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="46%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="47%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="48%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="49%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="50%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="51%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="52%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="53%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="54%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="55.00000000000001%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="56.00000000000001%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="56.99999999999999%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="57.99999999999999%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="59%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="60%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="61%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="62%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="63%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="64%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="65%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="66%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="67%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="68%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="69%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="70%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="71%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="72%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="73%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="74%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="75%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="76%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="77%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="78%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="79%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="80%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="81%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="82%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="83%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="84%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="85%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="86%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="87%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="88%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="89%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="90%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="91%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="92%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="93%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="94%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="95%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="96%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="97%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="98%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="99%" stop-color="rgb(170,170,170)"></stop>
+<stop offset="100%" stop-color="rgb(170,170,170)"></stop>
+</linearGradient>
+<linearGradient gradientUnits="objectBoundingBox" x1="0" y1="0" x2="0" y2="1" id="zr0-g1">
+<stop offset="0%" stop-color="rgb(47,147,200)"></stop>
+<stop offset="1%" stop-color="rgb(51,148,198)"></stop>
+<stop offset="2%" stop-color="rgb(55,150,197)"></stop>
+<stop offset="3%" stop-color="rgb(58,151,195)"></stop>
+<stop offset="4%" stop-color="rgb(62,153,193)"></stop>
+<stop offset="5%" stop-color="rgb(66,154,191)"></stop>
+<stop offset="6%" stop-color="rgb(70,156,190)"></stop>
+<stop offset="7.000000000000001%" stop-color="rgb(74,157,188)"></stop>
+<stop offset="8%" stop-color="rgb(77,159,186)"></stop>
+<stop offset="9%" stop-color="rgb(81,160,185)"></stop>
+<stop offset="10%" stop-color="rgb(85,162,183)"></stop>
+<stop offset="11%" stop-color="rgb(89,163,181)"></stop>
+<stop offset="12%" stop-color="rgb(93,165,179)"></stop>
+<stop offset="13%" stop-color="rgb(97,166,178)"></stop>
+<stop offset="14.000000000000002%" stop-color="rgb(100,168,176)"></stop>
+<stop offset="15%" stop-color="rgb(104,169,174)"></stop>
+<stop offset="16%" stop-color="rgb(108,171,173)"></stop>
+<stop offset="17%" stop-color="rgb(112,172,171)"></stop>
+<stop offset="18%" stop-color="rgb(116,173,169)"></stop>
+<stop offset="19%" stop-color="rgb(119,175,168)"></stop>
+<stop offset="20%" stop-color="rgb(123,176,166)"></stop>
+<stop offset="21%" stop-color="rgb(127,178,164)"></stop>
+<stop offset="22%" stop-color="rgb(131,179,162)"></stop>
+<stop offset="23%" stop-color="rgb(135,181,161)"></stop>
+<stop offset="24%" stop-color="rgb(138,182,159)"></stop>
+<stop offset="25%" stop-color="rgb(142,184,157)"></stop>
+<stop offset="26%" stop-color="rgb(146,185,156)"></stop>
+<stop offset="27%" stop-color="rgb(150,187,154)"></stop>
+<stop offset="28.000000000000004%" stop-color="rgb(154,188,152)"></stop>
+<stop offset="28.999999999999996%" stop-color="rgb(157,190,150)"></stop>
+<stop offset="30%" stop-color="rgb(161,191,149)"></stop>
+<stop offset="31%" stop-color="rgb(165,193,147)"></stop>
+<stop offset="32%" stop-color="rgb(169,194,145)"></stop>
+<stop offset="33%" stop-color="rgb(173,196,144)"></stop>
+<stop offset="34%" stop-color="rgb(176,196,142)"></stop>
+<stop offset="35%" stop-color="rgb(178,197,140)"></stop>
+<stop offset="36%" stop-color="rgb(180,198,139)"></stop>
+<stop offset="37%" stop-color="rgb(183,199,137)"></stop>
+<stop offset="38%" stop-color="rgb(185,199,136)"></stop>
+<stop offset="39%" stop-color="rgb(188,200,134)"></stop>
+<stop offset="40%" stop-color="rgb(190,201,133)"></stop>
+<stop offset="41%" stop-color="rgb(193,201,131)"></stop>
+<stop offset="42%" stop-color="rgb(195,202,130)"></stop>
+<stop offset="43%" stop-color="rgb(197,203,128)"></stop>
+<stop offset="44%" stop-color="rgb(200,203,127)"></stop>
+<stop offset="45%" stop-color="rgb(202,204,125)"></stop>
+<stop offset="46%" stop-color="rgb(205,205,124)"></stop>
+<stop offset="47%" stop-color="rgb(207,205,122)"></stop>
+<stop offset="48%" stop-color="rgb(210,206,121)"></stop>
+<stop offset="49%" stop-color="rgb(212,207,119)"></stop>
+<stop offset="50%" stop-color="rgb(215,208,118)"></stop>
+<stop offset="51%" stop-color="rgb(217,208,116)"></stop>
+<stop offset="52%" stop-color="rgb(219,209,114)"></stop>
+<stop offset="53%" stop-color="rgb(222,210,113)"></stop>
+<stop offset="54%" stop-color="rgb(224,210,111)"></stop>
+<stop offset="55.00000000000001%" stop-color="rgb(227,211,110)"></stop>
+<stop offset="56.00000000000001%" stop-color="rgb(229,212,108)"></stop>
+<stop offset="56.99999999999999%" stop-color="rgb(232,212,107)"></stop>
+<stop offset="57.99999999999999%" stop-color="rgb(234,213,105)"></stop>
+<stop offset="59%" stop-color="rgb(236,214,104)"></stop>
+<stop offset="60%" stop-color="rgb(239,214,102)"></stop>
+<stop offset="61%" stop-color="rgb(241,215,101)"></stop>
+<stop offset="62%" stop-color="rgb(244,216,99)"></stop>
+<stop offset="63%" stop-color="rgb(246,216,98)"></stop>
+<stop offset="64%" stop-color="rgb(249,217,96)"></stop>
+<stop offset="65%" stop-color="rgb(251,218,95)"></stop>
+<stop offset="66%" stop-color="rgb(253,219,93)"></stop>
+<stop offset="67%" stop-color="rgb(255,218,92)"></stop>
+<stop offset="68%" stop-color="rgb(255,216,92)"></stop>
+<stop offset="69%" stop-color="rgb(255,213,92)"></stop>
+<stop offset="70%" stop-color="rgb(254,211,93)"></stop>
+<stop offset="71%" stop-color="rgb(254,208,93)"></stop>
+<stop offset="72%" stop-color="rgb(254,206,93)"></stop>
+<stop offset="73%" stop-color="rgb(254,203,93)"></stop>
+<stop offset="74%" stop-color="rgb(254,201,93)"></stop>
+<stop offset="75%" stop-color="rgb(254,198,94)"></stop>
+<stop offset="76%" stop-color="rgb(253,196,94)"></stop>
+<stop offset="77%" stop-color="rgb(253,193,94)"></stop>
+<stop offset="78%" stop-color="rgb(253,191,94)"></stop>
+<stop offset="79%" stop-color="rgb(253,188,94)"></stop>
+<stop offset="80%" stop-color="rgb(253,186,94)"></stop>
+<stop offset="81%" stop-color="rgb(252,183,95)"></stop>
+<stop offset="82%" stop-color="rgb(252,181,95)"></stop>
+<stop offset="83%" stop-color="rgb(252,178,95)"></stop>
+<stop offset="84%" stop-color="rgb(252,176,95)"></stop>
+<stop offset="85%" stop-color="rgb(252,173,95)"></stop>
+<stop offset="86%" stop-color="rgb(252,171,95)"></stop>
+<stop offset="87%" stop-color="rgb(251,168,96)"></stop>
+<stop offset="88%" stop-color="rgb(251,166,96)"></stop>
+<stop offset="89%" stop-color="rgb(251,163,96)"></stop>
+<stop offset="90%" stop-color="rgb(251,161,96)"></stop>
+<stop offset="91%" stop-color="rgb(251,158,96)"></stop>
+<stop offset="92%" stop-color="rgb(250,156,97)"></stop>
+<stop offset="93%" stop-color="rgb(250,153,97)"></stop>
+<stop offset="94%" stop-color="rgb(250,151,97)"></stop>
+<stop offset="95%" stop-color="rgb(250,148,97)"></stop>
+<stop offset="96%" stop-color="rgb(250,146,97)"></stop>
+<stop offset="97%" stop-color="rgb(250,143,97)"></stop>
+<stop offset="98%" stop-color="rgb(249,141,98)"></stop>
+<stop offset="99%" stop-color="rgb(249,138,98)"></stop>
+<stop offset="100%" stop-color="rgb(249,136,98)"></stop>
+</linearGradient>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-7 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-8 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-9 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-10 {
+animation:zr0-ani-10 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-11 {
+animation:zr0-ani-11 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-12 {
+animation:zr0-ani-12 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-13 {
+animation:zr0-ani-13 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-14 {
+animation:zr0-ani-14 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-15 {
+animation:zr0-ani-15 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-16 {
+animation:zr0-ani-16 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M425 240.6A69.9 69.9 0 0 1 471.3 362.8L471.3 362.8A69.9 69.9 0 0 0 425 240.6Z");
+}
+100% {
+d:path("M425 170.8A139.7 139.7 0 0 1 517.7 415.1L471.3 362.8A69.9 69.9 0 0 0 425 240.6Z");
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+d:path("M425 170.8A139.7 139.7 0 0 1 525.8 213.7L525.8 213.7A139.7 139.7 0 0 0 425 170.8Z");
+}
+100% {
+d:path("M425 100.9A209.6 209.6 0 0 1 576.2 165.3L525.8 213.7A139.7 139.7 0 0 0 425 170.8Z");
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+d:path("M425 100.9A209.6 209.6 0 0 1 491.4 111.7L491.4 111.7A209.6 209.6 0 0 0 425 100.9Z");
+}
+100% {
+d:path("M425 31.1A279.5 279.5 0 0 1 513.5 45.4L491.4 111.7A209.6 209.6 0 0 0 425 100.9Z");
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+d:path("M525.8 213.7A139.7 139.7 0 0 1 563.7 293.7L563.7 293.7A139.7 139.7 0 0 0 525.8 213.7Z");
+}
+100% {
+d:path("M576.2 165.3A209.6 209.6 0 0 1 633.1 285.2L563.7 293.7A139.7 139.7 0 0 0 525.8 213.7Z");
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+d:path("M563.7 293.7A139.7 139.7 0 0 1 561.9 338.4L561.9 338.4A139.7 139.7 0 0 0 563.7 293.7Z");
+}
+100% {
+d:path("M633.1 285.2A209.6 209.6 0 0 1 630.4 352.4L561.9 338.4A139.7 139.7 0 0 0 563.7 293.7Z");
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+d:path("M471.3 362.8A69.9 69.9 0 0 1 370.9 354.7L370.9 354.7A69.9 69.9 0 0 0 471.3 362.8Z");
+}
+100% {
+d:path("M517.7 415.1A139.7 139.7 0 0 1 316.8 398.9L370.9 354.7A69.9 69.9 0 0 0 471.3 362.8Z");
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+d:path("M517.7 415.1A139.7 139.7 0 0 1 413.8 449.8L413.8 449.8A139.7 139.7 0 0 0 517.7 415.1Z");
+}
+100% {
+d:path("M564 467.4A209.6 209.6 0 0 1 408.1 519.4L413.8 449.8A139.7 139.7 0 0 0 517.7 415.1Z");
+}
+}
+@keyframes zr0-ani-7 {
+0% {
+d:path("M413.8 449.8A139.7 139.7 0 0 1 391.6 446.2L391.6 446.2A139.7 139.7 0 0 0 413.8 449.8Z");
+}
+100% {
+d:path("M408.1 519.4A209.6 209.6 0 0 1 374.8 514L391.6 446.2A139.7 139.7 0 0 0 413.8 449.8Z");
+}
+}
+@keyframes zr0-ani-8 {
+0% {
+d:path("M370.9 354.7A69.9 69.9 0 0 1 355.2 313.3L355.2 313.3A69.9 69.9 0 0 0 370.9 354.7Z");
+}
+100% {
+d:path("M316.8 398.9A139.7 139.7 0 0 1 285.4 316.1L355.2 313.3A69.9 69.9 0 0 0 370.9 354.7Z");
+}
+}
+@keyframes zr0-ani-9 {
+0% {
+d:path("M316.8 398.9A139.7 139.7 0 0 1 285.4 316.1L285.4 316.1A139.7 139.7 0 0 0 316.8 398.9Z");
+}
+100% {
+d:path("M262.7 443.1A209.6 209.6 0 0 1 215.6 318.9L285.4 316.1A139.7 139.7 0 0 0 316.8 398.9Z");
+}
+}
+@keyframes zr0-ani-10 {
+0% {
+d:path("M355.2 313.3A69.9 69.9 0 0 1 392.5 248.6L392.5 248.6A69.9 69.9 0 0 0 355.2 313.3Z");
+}
+100% {
+d:path("M285.4 316.1A139.7 139.7 0 0 1 360.1 186.8L392.5 248.6A69.9 69.9 0 0 0 355.2 313.3Z");
+}
+}
+@keyframes zr0-ani-11 {
+0% {
+d:path("M285.4 316.1A139.7 139.7 0 0 1 310 231.1L310 231.1A139.7 139.7 0 0 0 285.4 316.1Z");
+}
+100% {
+d:path("M215.6 318.9A209.6 209.6 0 0 1 252.5 191.4L310 231.1A139.7 139.7 0 0 0 285.4 316.1Z");
+}
+}
+@keyframes zr0-ani-12 {
+0% {
+d:path("M215.6 318.9A209.6 209.6 0 0 1 223.7 252.2L223.7 252.2A209.6 209.6 0 0 0 215.6 318.9Z");
+}
+100% {
+d:path("M145.8 321.8A279.5 279.5 0 0 1 156.6 232.8L223.7 252.2A209.6 209.6 0 0 0 215.6 318.9Z");
+}
+}
+@keyframes zr0-ani-13 {
+0% {
+d:path("M310 231.1A139.7 139.7 0 0 1 360.1 186.8L360.1 186.8A139.7 139.7 0 0 0 310 231.1Z");
+}
+100% {
+d:path("M252.5 191.4A209.6 209.6 0 0 1 327.6 124.9L360.1 186.8A139.7 139.7 0 0 0 310 231.1Z");
+}
+}
+@keyframes zr0-ani-14 {
+0% {
+d:path("M392.5 248.6A69.9 69.9 0 0 1 425 240.6L425 240.6A69.9 69.9 0 0 0 392.5 248.6Z");
+}
+100% {
+d:path("M360.1 186.8A139.7 139.7 0 0 1 425 170.8L425 240.6A69.9 69.9 0 0 0 392.5 248.6Z");
+}
+}
+@keyframes zr0-ani-15 {
+0% {
+d:path("M360.1 186.8A139.7 139.7 0 0 1 402.6 172.6L402.6 172.6A139.7 139.7 0 0 0 360.1 186.8Z");
+}
+100% {
+d:path("M327.6 124.9A209.6 209.6 0 0 1 391.4 103.6L402.6 172.6A139.7 139.7 0 0 0 360.1 186.8Z");
+}
+}
+@keyframes zr0-ani-16 {
+0% {
+d:path("M402.6 172.6A139.7 139.7 0 0 1 425 170.8L425 170.8A139.7 139.7 0 0 0 402.6 172.6Z");
+}
+100% {
+d:path("M391.4 103.6A209.6 209.6 0 0 1 425 100.9L425 170.8A139.7 139.7 0 0 0 402.6 172.6Z");
+}
+}
+]]>
+
+</style>
+</svg>

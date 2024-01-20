@@ -1,0 +1,337 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M40.5 551L40.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M40 551.5L720 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M40 551.5L35 551.5" fill="none" stroke="#6E7079"></path>
+<path d="M40 453.5L35 453.5" fill="none" stroke="#6E7079"></path>
+<path d="M40 354.5L35 354.5" fill="none" stroke="#6E7079"></path>
+<path d="M40 256.5L35 256.5" fill="none" stroke="#6E7079"></path>
+<path d="M40 158.5L35 158.5" fill="none" stroke="#6E7079"></path>
+<path d="M40 60.5L35 60.5" fill="none" stroke="#6E7079"></path>
+<path d="M40.5 551L40.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M176.5 551L176.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M312.5 551L312.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M448.5 551L448.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M584.5 551L584.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M720.5 551L720.5 556" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(32 551)" fill="#6E7079">55</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(32 452.8)" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(32 354.6)" fill="#6E7079">65</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(32 256.4)" fill="#6E7079">70</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(32 158.2)" fill="#6E7079">75</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(32 60)" fill="#6E7079">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(40 559)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(176 559)" fill="#6E7079">10,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(312 559)" fill="#6E7079">20,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(448 559)" fill="#6E7079">30,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(584 559)" fill="#6E7079">40,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(720 559)" fill="#6E7079">50,000</text>
+<polyline points="432.2 122.8 434 124.9 439 124.9" fill="none" stroke="#bbb"></polyline>
+<polyline points="467 114.9 468.8 117.1 473.8 117.1" fill="none" stroke="#bbb"></polyline>
+<polyline points="63.8 299.5 65.6 301.7 70.6 301.7" fill="none" stroke="#bbb"></polyline>
+<polyline points="229.1 167.9 230.9 170.1 235.9 170.1" fill="none" stroke="#bbb"></polyline>
+<polyline points="432.1 162 433.9 164.2 438.9 164.2" fill="none" stroke="#bbb"></polyline>
+<polyline points="444.1 120.8 445.9 123 450.9 123" fill="none" stroke="#bbb"></polyline>
+<polyline points="471.3 154.2 473.1 156.3 478.1 156.3" fill="none" stroke="#bbb"></polyline>
+<polyline points="433.1 101.2 434.9 103.3 439.9 103.3" fill="none" stroke="#bbb"></polyline>
+<polyline points="67.4 501.8 69.2 504 74.2 504" fill="none" stroke="#bbb"></polyline>
+<polyline points="445.1 81.5 446.9 83.7 451.9 83.7" fill="none" stroke="#bbb"></polyline>
+<polyline points="71.4 301.5 73.2 303.6 78.2 303.6" fill="none" stroke="#bbb"></polyline>
+<polyline points="207.6 221 209.4 223.1 214.4 223.1" fill="none" stroke="#bbb"></polyline>
+<polyline points="369.9 154.2 371.7 156.3 376.7 156.3" fill="none" stroke="#bbb"></polyline>
+<polyline points="632 126.7 633.8 128.8 638.8 128.8" fill="none" stroke="#bbb"></polyline>
+<polyline points="180.4 244.5 182.2 246.7 187.2 246.7" fill="none" stroke="#bbb"></polyline>
+<polyline points="306.3 268.1 308.1 270.3 313.1 270.3" fill="none" stroke="#bbb"></polyline>
+<polyline points="188.3 313.3 190.1 315.4 195.1 315.4" fill="none" stroke="#bbb"></polyline>
+<polyline points="402.6 148.3 404.4 150.5 409.4 150.5" fill="none" stroke="#bbb"></polyline>
+<polyline points="547.2 154.2 549 156.3 554 156.3" fill="none" stroke="#bbb"></polyline>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,429.0144,118.92)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-0"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,463.8168,111.064)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,60.6176,295.68)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,225.912,164.092)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,428.9464,158.2)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,440.8736,116.956)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-5"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,468.0736,150.344)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,429.8576,97.316)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-7"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,64.1672,497.972)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-8"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,441.88,77.676)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-9"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,68.2336,297.644)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-10"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,204.3832,217.12)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-11"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,366.6856,150.344)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-12"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,628.8256,122.848)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-13"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,177.1968,240.688)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-14"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,303.1464,264.256)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-15"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,185.112,309.428)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-16"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,399.3664,144.452)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-17"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,544.0432,150.344)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-18"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(439.0144 118.92)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">77</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(473.8168 111.064)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">77.4</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(70.6176 295.68)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">68</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(235.912 164.092)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">74.7</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(438.9464 158.2)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">75</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(450.8736 116.956)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">77.1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(478.0736 150.344)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">75.4</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(439.8576 97.316)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">78.1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(74.1672 497.972)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">57.7</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(451.88 77.676)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">79.1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(78.2336 297.644)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">67.9</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(214.3832 217.12)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">72</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(376.6856 150.344)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">75.4</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(638.8256 122.848)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">76.8</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(187.1968 240.688)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">70.8</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(313.1464 264.256)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">69.6</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(195.112 309.428)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">67.3</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(409.3664 144.452)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">75.7</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(554.0432 150.344)" fill="#333" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">75.4</text>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-7 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-8 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-9 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-10 {
+animation:zr0-ani-10 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-11 {
+animation:zr0-ani-11 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-12 {
+animation:zr0-ani-12 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-13 {
+animation:zr0-ani-13 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-14 {
+animation:zr0-ani-14 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-15 {
+animation:zr0-ani-15 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-16 {
+animation:zr0-ani-16 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-17 {
+animation:zr0-ani-17 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-18 {
+animation:zr0-ani-18 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-7 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-8 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-9 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-10 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-11 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-12 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-13 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-14 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-15 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-16 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-17 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-18 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+]]>
+
+</style>
+</svg>

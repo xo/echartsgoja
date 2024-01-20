@@ -1,0 +1,32 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M425 310.5A0 0 0 1 1 425 310.5A0 0 0 0 1 425 310.5M474.7 310.5A49.7 49.7 0 1 1 474.4 305.5A49.7 49.7 0 0 1 474.7 310.5M524.4 310.5A99.4 99.4 0 1 1 523.9 300.6A99.4 99.4 0 0 1 524.4 310.5M574 310.5A149 149 0 1 1 573.3 295.6A149 149 0 0 1 574 310.5M623.7 310.5A198.7 198.7 0 1 1 622.7 290.7A198.7 198.7 0 0 1 623.7 310.5M673.4 310.5A248.4 248.4 0 1 1 672.2 285.7A248.4 248.4 0 0 1 673.4 310.5" fill="none" stroke="#E0E6F1"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="606.3021786962308" y="123.19782130376925" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="672.6633818605171" y="244.1387968357137" fill="#6E7079">30</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="672.6633818605171" y="376.8612031642863" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="606.3021786962308" y="497.8021786962307" fill="#6E7079">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="491.3612031642863" y="564.1633818605171" fill="#6E7079">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="358.63879683571366" y="564.1633818605171" fill="#6E7079">150</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="243.69782130376925" y="497.8021786962308" fill="#6E7079">180</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="177.33661813948294" y="376.8612031642864" fill="#6E7079">210</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="177.33661813948288" y="244.13879683571378" fill="#6E7079">240</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="243.6978213037692" y="123.19782130376925" fill="#6E7079">270</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="358.6387968357137" y="56.83661813948291" fill="#6E7079">300</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="491.36120316428617" y="56.83661813948288" fill="#6E7079">330</text>
+<path d="M604.2 131.3L600.6 134.9M669.8 244.9L664.9 246.2M669.8 376.1L664.9 374.8M604.2 489.7L600.6 486.1M490.6 555.3L489.3 550.4M359.4 555.3L360.7 550.4M245.8 489.7L249.4 486.1M180.2 376.1L185.1 374.8M180.2 244.9L185.1 246.2M245.8 131.3L249.4 134.9M359.4 65.7L360.7 70.6M490.6 65.7L489.3 70.6" fill="#000" stroke="#6E7079"></path>
+<path d="M600.6 134.9L425 310.5M664.9 246.2L425 310.5M664.9 374.8L425 310.5M600.6 486.1L425 310.5M489.3 550.4L425 310.5M360.7 550.4L425 310.5M249.4 486.1L425 310.5M185.1 374.8L425 310.5M185.1 246.2L425 310.5M249.4 134.9L425 310.5M360.7 70.6L425 310.5M489.3 70.6L425 310.5" fill="#000" stroke="#E0E6F1"></path>
+<path d="M425 310.5L600.6 134.9" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<circle cx="425" cy="310.5" r="248.4" fill="none" stroke="#6E7079"></circle>
+<path d="M425 310.5L421.5 307" fill="none" stroke="#6E7079"></path>
+<path d="M460.1 275.4L456.6 271.8" fill="none" stroke="#6E7079"></path>
+<path d="M495.3 240.2L491.7 236.7" fill="none" stroke="#6E7079"></path>
+<path d="M530.4 205.1L526.9 201.6" fill="none" stroke="#6E7079"></path>
+<path d="M565.5 170L562 166.4" fill="none" stroke="#6E7079"></path>
+<path d="M600.6 134.9L597.1 131.3" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(419.3431 304.8431)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(454.4722 269.7141)" fill="#6E7079">2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(489.6013 234.585)" fill="#6E7079">4</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(524.7303 199.456)" fill="#6E7079">6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(559.8594 164.3269)" fill="#6E7079">8</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(594.9885 129.1978)" fill="#6E7079">10</text>
+</svg>

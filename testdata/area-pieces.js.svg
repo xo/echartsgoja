@@ -1,0 +1,72 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 453.5L765 453.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 354.5L765 354.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 256.5L765 256.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 158.5L765 158.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M170.5 551L170.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M255.5 551L255.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M340.5 551L340.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M425.5 551L425.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M510.5 551L510.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M595.5 551L595.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M680.5 551L680.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 452.8)" fill="#6E7079">200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 354.6)" fill="#6E7079">400</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 256.4)" fill="#6E7079">600</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 158.2)" fill="#6E7079">800</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 60)" fill="#6E7079">1,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(85 559)" fill="#6E7079">2019-10-10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(170 559)" fill="#6E7079">2019-10-11</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(255 559)" fill="#6E7079">2019-10-12</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(340 559)" fill="#6E7079">2019-10-13</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(425 559)" fill="#6E7079">2019-10-14</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(510 559)" fill="#6E7079">2019-10-15</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(595 559)" fill="#6E7079">2019-10-16</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(680 559)" fill="#6E7079">2019-10-17</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765 559)" fill="#6E7079">2019-10-18</text>
+<g clip-path="url(#zr0-c0)">
+<path d="M85 452.8C85 452.8 107.9 374.6 170 276C209.9 212.6 202.5 182.8 255 182.8C304.5 182.8 299.8 208.1 340 266.2C401.8 355.4 356.2 428.3 425 428.3C458.2 428.3 465.1 428.3 510 403.7C567.1 372.5 544 330 595 330C646 330 632.7 355.8 680 403.7C734.7 459 765 501.9 765 501.9L765 551L680 551L595 551L510 551L425 551L340 551L255 551L170 551L85 551Z" fill="url(#zr0-g0)" fill-opacity="0.7"></path>
+<path d="M85 452.8C85 452.8 107.9 374.6 170 276C209.9 212.6 202.5 182.8 255 182.8C304.5 182.8 299.8 208.1 340 266.2C401.8 355.4 356.2 428.3 425 428.3C458.2 428.3 465.1 428.3 510 403.7C567.1 372.5 544 330 595 330C646 330 632.7 355.8 680 403.7C734.7 459 765 501.9 765 501.9" fill="none" stroke="#5470C6" stroke-width="5" stroke-linejoin="bevel"></path>
+</g>
+<path d="M170.5 551L170.5 60" fill="none" stroke="#5470c6" stroke-dasharray="4,2"></path>
+<path d="M340.5 551L340.5 60" fill="none" stroke="#5470c6" stroke-dasharray="4,2"></path>
+<path d="M510.5 551L510.5 60" fill="none" stroke="#5470c6" stroke-dasharray="4,2"></path>
+<path d="M680.5 551L680.5 60" fill="none" stroke="#5470c6" stroke-dasharray="4,2"></path>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M82 57.5l685 0l0 496l-685 0Z" fill="#000" class="zr0-cls-0"></path>
+</clipPath>
+<linearGradient gradientUnits="userSpaceOnUse" x1="160" y1="0" x2="690" y2="0" id="zr0-g0">
+<stop offset="1.8900000000000001%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+<stop offset="1.8900000000000001%" stop-color="rgb(0,0,180)" stop-opacity="0.4"></stop>
+<stop offset="33.96%" stop-color="rgb(0,0,180)" stop-opacity="0.4"></stop>
+<stop offset="33.96%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+<stop offset="66.03999999999999%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+<stop offset="66.03999999999999%" stop-color="rgb(0,0,180)" stop-opacity="0.4"></stop>
+<stop offset="98.11%" stop-color="rgb(0,0,180)" stop-opacity="0.4"></stop>
+<stop offset="98.11%" stop-color="rgb(0,0,0)" stop-opacity="0"></stop>
+</linearGradient>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s linear both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M82 57.5l0 0l0 496l0 0Z");
+}
+100% {
+d:path("M82 57.5l685 0l0 496l-685 0Z");
+}
+}
+]]>
+
+</style>
+</svg>

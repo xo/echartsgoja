@@ -1,0 +1,79 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M66.5 60L66.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M216.5 60L216.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M366.5 60L366.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M516.5 60L516.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M666.5 60L666.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M816.5 60L816.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M66.5 582.4L66.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M66.3 582.5L61.3 582.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 524.5L61.3 524.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 466.5L61.3 466.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 408.5L61.3 408.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 350.5L61.3 350.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 292.5L61.3 292.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 234.5L61.3 234.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 176.5L61.3 176.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 118.5L61.3 118.5" fill="none" stroke="#6E7079"></path>
+<path d="M66.3 60.5L61.3 60.5" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 553.3494)" fill="#6E7079">0 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 495.3083)" fill="#6E7079">10 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 437.2672)" fill="#6E7079">20 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 379.2261)" fill="#6E7079">30 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 321.185)" fill="#6E7079">40 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 263.1439)" fill="#6E7079">50 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 205.1028)" fill="#6E7079">60 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 147.0617)" fill="#6E7079">70 km</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(58.26 89.0206)" fill="#6E7079">80 km</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(66.26 590.37)" fill="#6E7079">-80 °C</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(216.208 590.37)" fill="#6E7079">-60 °C</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(366.156 590.37)" fill="#6E7079">-40 °C</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(516.104 590.37)" fill="#6E7079">-20 °C</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(666.052 590.37)" fill="#6E7079">0 °C</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(816 590.37)" fill="#6E7079">20 °C</text>
+<g clip-path="url(#zr0-c0)">
+<path d="M778.5 553.3C778.5 553.3 523.4 545.6 291.2 495.3C255.3 487.5 242.4 463.1 242.4 437.3C242.4 405 274.8 398.4 317.4 379.2C403.7 340.4 409.9 353 500.4 321.2C574.8 295 647.3 288.9 647.3 263.1C647.3 230.9 553.3 232.7 458.4 205.1C353.8 174.7 352.2 180 248.4 147.1C169.2 121.9 92.5 89 92.5 89" fill="none" stroke="#5470c6" stroke-width="2" stroke-linejoin="bevel"></path>
+</g>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,778.513,553.3494)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,291.182,495.3083)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,242.4489,437.2672)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,317.4229,379.2261)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,500.3595,321.185)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,647.3085,263.1439)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,458.374,205.1028)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,248.4468,147.0617)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,92.5009,89.0206)" fill="#fff" stroke="#5470c6"></path>
+<path d="M-5 -5l10 0l0 10l-10 0Z" transform="translate(425 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M0 0l400 0l0 50l-400 0Z" transform="matrix(0.707,-0.707,0.707,0.707,580.901,634.7437)" fill="rgb(0,0,0)" fill-opacity="0.3"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: bold 26px sans-serif" xml:space="preserve" y="13" transform="matrix(0.707,-0.707,0.707,0.707,629.5994,603.0158)" fill="#fff">ECHARTS LINE CHART</text>
+<path d="M0 0l240 0l0 90l-240 0Z" transform="translate(85.5 265.5)" fill="#fff" stroke="#555" filter="url(#zr0-s0)"></path>
+<text dominant-baseline="central" text-anchor="start" style="font: 14px Microsoft YaHei" xml:space="preserve" y="7" transform="translate(98.05 275.5)" fill="#333">xAxis represents temperature in </text>
+<text dominant-baseline="central" text-anchor="start" style="font: 14px Microsoft YaHei" xml:space="preserve" y="21" transform="translate(98.05 275.5)" fill="#333">°C, yAxis represents altitude in </text>
+<text dominant-baseline="central" text-anchor="start" style="font: 14px Microsoft YaHei" xml:space="preserve" y="35" transform="translate(98.05 275.5)" fill="#333">km, An image watermark in the </text>
+<text dominant-baseline="central" text-anchor="start" style="font: 14px Microsoft YaHei" xml:space="preserve" y="49" transform="translate(98.05 275.5)" fill="#333">upper right, This text block can be </text>
+<text dominant-baseline="central" text-anchor="start" style="font: 14px Microsoft YaHei" xml:space="preserve" y="63" transform="translate(98.05 275.5)" fill="#333">placed in any place</text>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M65 59l752 0l0 524.4l-752 0Z" fill="#000" class="zr0-cls-0"></path>
+</clipPath>
+<filter id="zr0-s0" x="-100%" y="-100%" width="300%" height="300%">
+<feDropShadow dx="3" dy="3" stdDeviation="4 4" flood-color="rgb(0,0,0)" flood-opacity="0.2"></feDropShadow>
+</filter>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s linear both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M65 583.4l752 0l0 0l-752 0Z");
+}
+100% {
+d:path("M65 59l752 0l0 524.4l-752 0Z");
+}
+}
+]]>
+
+</style>
+</svg>

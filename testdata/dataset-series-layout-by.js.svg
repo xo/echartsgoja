@@ -1,0 +1,352 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M85 279.5L765 279.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 235.5L765 235.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 191.5L765 191.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 148.5L765 148.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 104.5L765 104.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 509.5L765 509.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 467.5L765 467.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 425.5L765 425.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 383.5L765 383.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 341.5L765 341.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 279.5L765 279.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M85.5 279.5L85.5 284.5" fill="none" stroke="#6E7079"></path>
+<path d="M255.5 279.5L255.5 284.5" fill="none" stroke="#6E7079"></path>
+<path d="M425.5 279.5L425.5 284.5" fill="none" stroke="#6E7079"></path>
+<path d="M595.5 279.5L595.5 284.5" fill="none" stroke="#6E7079"></path>
+<path d="M765.5 279.5L765.5 284.5" fill="none" stroke="#6E7079"></path>
+<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M311.5 551L311.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M538.5 551L538.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 279.45)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 235.56)" fill="#6E7079">20</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 191.67)" fill="#6E7079">40</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 147.78)" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 103.89)" fill="#6E7079">80</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 60)" fill="#6E7079">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 509.11)" fill="#6E7079">20</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 467.22)" fill="#6E7079">40</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 425.33)" fill="#6E7079">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 383.44)" fill="#6E7079">80</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 341.55)" fill="#6E7079">100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(170 287.45)" fill="#6E7079">2012</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(340 287.45)" fill="#6E7079">2013</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(510 287.45)" fill="#6E7079">2014</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(680 287.45)" fill="#6E7079">2015</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(198.3333 559)" fill="#6E7079">Matcha Latte</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(425 559)" fill="#6E7079">Milk Tea</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(651.6667 559)" fill="#6E7079">Cheese Cocoa</text>
+<path d="M104.6 279.5l38.5 0l0 -90.2l-38.5 0Z" fill="#5470c6" class="zr0-cls-0"></path>
+<path d="M274.6 279.5l38.5 0l0 -66.7l-38.5 0Z" fill="#5470c6" class="zr0-cls-1"></path>
+<path d="M444.6 279.5l38.5 0l0 -142.9l-38.5 0Z" fill="#5470c6" class="zr0-cls-2"></path>
+<path d="M614.6 279.5l38.5 0l0 -117l-38.5 0Z" fill="#5470c6" class="zr0-cls-3"></path>
+<path d="M150.8 279.5l38.5 0l0 -189.8l-38.5 0Z" fill="#91cc75" class="zr0-cls-4"></path>
+<path d="M320.8 279.5l38.5 0l0 -202.1l-38.5 0Z" fill="#91cc75" class="zr0-cls-5"></path>
+<path d="M490.8 279.5l38.5 0l0 -188.1l-38.5 0Z" fill="#91cc75" class="zr0-cls-6"></path>
+<path d="M660.8 279.5l38.5 0l0 -182.4l-38.5 0Z" fill="#91cc75" class="zr0-cls-7"></path>
+<path d="M197 279.5l38.5 0l0 -52.9l-38.5 0Z" fill="#fac858" class="zr0-cls-8"></path>
+<path d="M367 279.5l38.5 0l0 -147.5l-38.5 0Z" fill="#fac858" class="zr0-cls-9"></path>
+<path d="M537 279.5l38.5 0l0 -174.5l-38.5 0Z" fill="#fac858" class="zr0-cls-10"></path>
+<path d="M707 279.5l38.5 0l0 -189.6l-38.5 0Z" fill="#fac858" class="zr0-cls-11"></path>
+<path d="M106.5 551l39.9 0l0 -86.1l-39.9 0Z" fill="#ee6666" class="zr0-cls-12"></path>
+<path d="M333.2 551l39.9 0l0 -181.2l-39.9 0Z" fill="#ee6666" class="zr0-cls-13"></path>
+<path d="M559.9 551l39.9 0l0 -50.5l-39.9 0Z" fill="#ee6666" class="zr0-cls-14"></path>
+<path d="M154.4 551l39.9 0l0 -63.7l-39.9 0Z" fill="#73c0de" class="zr0-cls-15"></path>
+<path d="M381.1 551l39.9 0l0 -192.9l-39.9 0Z" fill="#73c0de" class="zr0-cls-16"></path>
+<path d="M607.8 551l39.9 0l0 -140.8l-39.9 0Z" fill="#73c0de" class="zr0-cls-17"></path>
+<path d="M202.3 551l39.9 0l0 -136.4l-39.9 0Z" fill="#3ba272" class="zr0-cls-18"></path>
+<path d="M429 551l39.9 0l0 -179.5l-39.9 0Z" fill="#3ba272" class="zr0-cls-19"></path>
+<path d="M655.7 551l39.9 0l0 -166.5l-39.9 0Z" fill="#3ba272" class="zr0-cls-20"></path>
+<path d="M250.2 551l39.9 0l0 -111.6l-39.9 0Z" fill="#fc8452" class="zr0-cls-21"></path>
+<path d="M476.9 551l39.9 0l0 -174.1l-39.9 0Z" fill="#fc8452" class="zr0-cls-22"></path>
+<path d="M703.6 551l39.9 0l0 -181l-39.9 0Z" fill="#fc8452" class="zr0-cls-23"></path>
+<path d="M-5 -5l582.3 0l0 24l-582.3 0Z" transform="translate(138.86 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(138.86 5)" fill="#5470c6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(138.86 5)" fill="#333">Matcha Latte</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(248.58 5)" fill="#91cc75"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(248.58 5)" fill="#333">Milk Tea</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(333.94 5)" fill="#fac858"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(333.94 5)" fill="#333">Cheese Cocoa</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(453.62 5)" fill="#ee6666"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(453.62 5)" fill="#333">2012</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(520.5 5)" fill="#73c0de"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(520.5 5)" fill="#333">2013</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(587.38 5)" fill="#3ba272"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(587.38 5)" fill="#333">2014</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(654.26 5)" fill="#fc8452"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(654.26 5)" fill="#333">2015</text>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-7 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-8 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-9 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-10 {
+animation:zr0-ani-10 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-11 {
+animation:zr0-ani-11 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-12 {
+animation:zr0-ani-12 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-13 {
+animation:zr0-ani-13 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-14 {
+animation:zr0-ani-14 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-15 {
+animation:zr0-ani-15 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-16 {
+animation:zr0-ani-16 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-17 {
+animation:zr0-ani-17 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-18 {
+animation:zr0-ani-18 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-19 {
+animation:zr0-ani-19 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-20 {
+animation:zr0-ani-20 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-21 {
+animation:zr0-ani-21 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-22 {
+animation:zr0-ani-22 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-23 {
+animation:zr0-ani-23 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M104.6 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M104.6 279.5l38.5 0l0 -90.2l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+d:path("M274.6 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M274.6 279.5l38.5 0l0 -66.7l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+d:path("M444.6 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M444.6 279.5l38.5 0l0 -142.9l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+d:path("M614.6 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M614.6 279.5l38.5 0l0 -117l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+d:path("M150.8 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M150.8 279.5l38.5 0l0 -189.8l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+d:path("M320.8 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M320.8 279.5l38.5 0l0 -202.1l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+d:path("M490.8 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M490.8 279.5l38.5 0l0 -188.1l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-7 {
+0% {
+d:path("M660.8 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M660.8 279.5l38.5 0l0 -182.4l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-8 {
+0% {
+d:path("M197 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M197 279.5l38.5 0l0 -52.9l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-9 {
+0% {
+d:path("M367 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M367 279.5l38.5 0l0 -147.5l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-10 {
+0% {
+d:path("M537 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M537 279.5l38.5 0l0 -174.5l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-11 {
+0% {
+d:path("M707 279.5l38.5 0l0 0l-38.5 0Z");
+}
+100% {
+d:path("M707 279.5l38.5 0l0 -189.6l-38.5 0Z");
+}
+}
+@keyframes zr0-ani-12 {
+0% {
+d:path("M106.5 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M106.5 551l39.9 0l0 -86.1l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-13 {
+0% {
+d:path("M333.2 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M333.2 551l39.9 0l0 -181.2l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-14 {
+0% {
+d:path("M559.9 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M559.9 551l39.9 0l0 -50.5l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-15 {
+0% {
+d:path("M154.4 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M154.4 551l39.9 0l0 -63.7l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-16 {
+0% {
+d:path("M381.1 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M381.1 551l39.9 0l0 -192.9l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-17 {
+0% {
+d:path("M607.8 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M607.8 551l39.9 0l0 -140.8l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-18 {
+0% {
+d:path("M202.3 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M202.3 551l39.9 0l0 -136.4l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-19 {
+0% {
+d:path("M429 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M429 551l39.9 0l0 -179.5l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-20 {
+0% {
+d:path("M655.7 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M655.7 551l39.9 0l0 -166.5l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-21 {
+0% {
+d:path("M250.2 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M250.2 551l39.9 0l0 -111.6l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-22 {
+0% {
+d:path("M476.9 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M476.9 551l39.9 0l0 -174.1l-39.9 0Z");
+}
+}
+@keyframes zr0-ani-23 {
+0% {
+d:path("M703.6 551l39.9 0l0 0l-39.9 0Z");
+}
+100% {
+d:path("M703.6 551l39.9 0l0 -181l-39.9 0Z");
+}
+}
+]]>
+
+</style>
+</svg>

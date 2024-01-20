@@ -1,0 +1,59 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 428.5L765 428.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 305.5L765 305.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 183.5L765 183.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M182.5 551L182.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M279.5 551L279.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M376.5 551L376.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M473.5 551L473.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M570.5 551L570.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M668.5 551L668.5 556" fill="none" stroke="#6E7079"></path>
+<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 428.25)" fill="#6E7079">50</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 305.5)" fill="#6E7079">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 182.75)" fill="#6E7079">150</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 60)" fill="#6E7079">200</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(133.5714 559)" fill="#6E7079">Mon</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(230.7143 559)" fill="#6E7079">Tue</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(327.8571 559)" fill="#6E7079">Wed</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(425 559)" fill="#6E7079">Thu</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(522.1429 559)" fill="#6E7079">Fri</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(619.2857 559)" fill="#6E7079">Sat</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(716.4286 559)" fill="#6E7079">Sun</text>
+<g clip-path="url(#zr0-c0)">
+<path d="M133.6 256.4L230.7 60L327.9 182.8L425 354.6L522.1 379.1L619.3 281L716.4 231.9" fill="none" stroke="#5470C6" stroke-width="4" stroke-dasharray="16,8" stroke-linejoin="bevel"></path>
+</g>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,133.5714,256.4)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,230.7143,60)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,327.8571,182.75)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,425,354.6)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,522.1429,379.15)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,619.2857,280.95)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(10,0,0,10,716.4286,231.85)" fill="yellow" stroke="#EE6666" stroke-width="0.3"></path>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M83 58l684 0l0 495l-684 0Z" fill="#000" class="zr0-cls-0"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s linear both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M83 58l0 0l0 495l0 0Z");
+}
+100% {
+d:path("M83 58l684 0l0 495l-684 0Z");
+}
+}
+]]>
+
+</style>
+</svg>

@@ -1,0 +1,503 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M58.5 60L58.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M184.5 60L184.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M311.5 60L311.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M437.5 60L437.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M563.5 60L563.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M689.5 60L689.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M816.5 60L816.5 582.4" fill="none" stroke="#E0E6F1"></path>
+<path d="M58.5 582.4L58.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M58.2 582.5L53.2 582.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 507.5L53.2 507.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 433.5L53.2 433.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 358.5L53.2 358.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 284.5L53.2 284.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 209.5L53.2 209.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 134.5L53.2 134.5" fill="none" stroke="#6E7079"></path>
+<path d="M58.2 60.5L53.2 60.5" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 545.0579)" fill="#6E7079">Mon</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 470.4336)" fill="#6E7079">Tue</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 395.8093)" fill="#6E7079">Wed</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 321.185)" fill="#6E7079">Thu</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 246.5607)" fill="#6E7079">Fri</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 171.9364)" fill="#6E7079">Sat</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(50.22 97.3121)" fill="#6E7079">Sun</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(58.22 590.37)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(184.5167 590.37)" fill="#6E7079">500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(310.8133 590.37)" fill="#6E7079">1,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(437.11 590.37)" fill="#6E7079">1,500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(563.4067 590.37)" fill="#6E7079">2,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(689.7033 590.37)" fill="#6E7079">2,500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(816 590.37)" fill="#6E7079">3,000</text>
+<path d="M58.2 519.3l80.8 0l0 51.5l-80.8 0Z" fill="#5470c6" class="zr0-cls-0"></path>
+<path d="M58.2 444.7l76.3 0l0 51.5l-76.3 0Z" fill="#5470c6" class="zr0-cls-1"></path>
+<path d="M58.2 370.1l76 0l0 51.5l-76 0Z" fill="#5470c6" class="zr0-cls-2"></path>
+<path d="M58.2 295.4l84.4 0l0 51.5l-84.4 0Z" fill="#5470c6" class="zr0-cls-3"></path>
+<path d="M58.2 220.8l98.5 0l0 51.5l-98.5 0Z" fill="#5470c6" class="zr0-cls-4"></path>
+<path d="M58.2 146.2l83.4 0l0 51.5l-83.4 0Z" fill="#5470c6" class="zr0-cls-5"></path>
+<path d="M58.2 71.6l80.8 0l0 51.5l-80.8 0Z" fill="#5470c6" class="zr0-cls-6"></path>
+<path d="M139 519.3l30.3 0l0 51.5l-30.3 0Z" fill="#91cc75" class="zr0-cls-7"></path>
+<path d="M134.5 444.7l33.3 0l0 51.5l-33.3 0Z" fill="#91cc75" class="zr0-cls-8"></path>
+<path d="M134.3 370.1l25.5 0l0 51.5l-25.5 0Z" fill="#91cc75" class="zr0-cls-9"></path>
+<path d="M142.6 295.4l33.8 0l0 51.5l-33.8 0Z" fill="#91cc75" class="zr0-cls-10"></path>
+<path d="M156.7 220.8l22.7 0l0 51.5l-22.7 0Z" fill="#91cc75" class="zr0-cls-11"></path>
+<path d="M141.6 146.2l58.1 0l0 51.5l-58.1 0Z" fill="#91cc75" class="zr0-cls-12"></path>
+<path d="M139 71.6l53 0l0 51.5l-53 0Z" fill="#91cc75" class="zr0-cls-13"></path>
+<path d="M169.4 519.3l55.6 0l0 51.5l-55.6 0Z" fill="#fac858" class="zr0-cls-14"></path>
+<path d="M167.8 444.7l46 0l0 51.5l-46 0Z" fill="#fac858" class="zr0-cls-15"></path>
+<path d="M159.8 370.1l48.2 0l0 51.5l-48.2 0Z" fill="#fac858" class="zr0-cls-16"></path>
+<path d="M176.4 295.4l59.1 0l0 51.5l-59.1 0Z" fill="#fac858" class="zr0-cls-17"></path>
+<path d="M179.5 220.8l73.3 0l0 51.5l-73.3 0Z" fill="#fac858" class="zr0-cls-18"></path>
+<path d="M199.7 146.2l83.4 0l0 51.5l-83.4 0Z" fill="#fac858" class="zr0-cls-19"></path>
+<path d="M192.1 71.6l78.3 0l0 51.5l-78.3 0Z" fill="#fac858" class="zr0-cls-20"></path>
+<path d="M224.9 519.3l37.9 0l0 51.5l-37.9 0Z" fill="#ee6666" class="zr0-cls-21"></path>
+<path d="M213.8 444.7l53.5 0l0 51.5l-53.5 0Z" fill="#ee6666" class="zr0-cls-22"></path>
+<path d="M208 370.1l50.8 0l0 51.5l-50.8 0Z" fill="#ee6666" class="zr0-cls-23"></path>
+<path d="M235.5 295.4l38.9 0l0 51.5l-38.9 0Z" fill="#ee6666" class="zr0-cls-24"></path>
+<path d="M252.7 220.8l48 0l0 51.5l-48 0Z" fill="#ee6666" class="zr0-cls-25"></path>
+<path d="M283 146.2l83.4 0l0 51.5l-83.4 0Z" fill="#ee6666" class="zr0-cls-26"></path>
+<path d="M270.4 71.6l103.6 0l0 51.5l-103.6 0Z" fill="#ee6666" class="zr0-cls-27"></path>
+<path d="M262.8 519.3l207.1 0l0 51.5l-207.1 0Z" fill="#73c0de" class="zr0-cls-28"></path>
+<path d="M267.4 444.7l210.2 0l0 51.5l-210.2 0Z" fill="#73c0de" class="zr0-cls-29"></path>
+<path d="M258.8 370.1l227.6 0l0 51.5l-227.6 0Z" fill="#73c0de" class="zr0-cls-30"></path>
+<path d="M274.4 295.4l235.9 0l0 51.5l-235.9 0Z" fill="#73c0de" class="zr0-cls-31"></path>
+<path d="M300.7 220.8l325.8 0l0 51.5l-325.8 0Z" fill="#73c0de" class="zr0-cls-32"></path>
+<path d="M366.4 146.2l335.9 0l0 51.5l-335.9 0Z" fill="#73c0de" class="zr0-cls-33"></path>
+<path d="M374 71.6l333.4 0l0 51.5l-333.4 0Z" fill="#73c0de" class="zr0-cls-34"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(98.6349 545.0579)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">320</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(96.3616 470.4336)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">302</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(96.2353 395.8093)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">301</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(100.4031 321.185)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">334</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(107.4757 246.5607)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">390</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(99.8979 171.9364)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(98.6349 97.3121)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">320</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(154.2055 545.0579)" fill="#333">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(151.1743 470.4336)" fill="#333">132</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(147.0066 395.8093)" fill="#333">101</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(159.5099 321.185)" fill="#333">134</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(168.0981 246.5607)" fill="#333">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(170.624 171.9364)" fill="#333">230</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(165.5722 97.3121)" fill="#333">210</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(197.1463 545.0579)" fill="#333">220</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(190.8315 470.4336)" fill="#333">182</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(183.8852 395.8093)" fill="#333">191</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(205.9871 321.185)" fill="#333">234</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(216.0908 246.5607)" fill="#333">290</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(241.3502 171.9364)" fill="#333">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(231.2464 97.3121)" fill="#333">310</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(243.8761 545.0579)" fill="#333">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(240.5924 470.4336)" fill="#333">212</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(233.3935 395.8093)" fill="#333">201</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(254.9902 321.185)" fill="#333">154</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(276.7132 246.5607)" fill="#333">190</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(324.706 171.9364)" fill="#333">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(322.18 97.3121)" fill="#333">410</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(366.3839 545.0579)" fill="#333">820</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(372.4461 470.4336)" fill="#333">832</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(372.5724 395.8093)" fill="#333">901</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(392.401 321.185)" fill="#333">934</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(463.6323 246.5607)" fill="#333">1290</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(534.3584 171.9364)" fill="#333">1330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(540.6733 97.3121)" fill="#333">1320</text>
+<path d="M-5 -5l457 0l0 24l-457 0Z" transform="translate(201.48 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(201.48 5)" fill="#5470c6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(201.48 5)" fill="#333">Direct</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(272.8 5)" fill="#91cc75"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(272.8 5)" fill="#333">Mail Ad</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(352.88 5)" fill="#fac858"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(352.88 5)" fill="#333">Affiliate Ad</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(450.48 5)" fill="#ee6666"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(450.48 5)" fill="#333">Video Ad</text>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(539.44 5)" fill="#73c0de"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(539.44 5)" fill="#333">Search Engine</text>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-7 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-8 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-9 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-10 {
+animation:zr0-ani-10 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-11 {
+animation:zr0-ani-11 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-12 {
+animation:zr0-ani-12 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-13 {
+animation:zr0-ani-13 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-14 {
+animation:zr0-ani-14 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-15 {
+animation:zr0-ani-15 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-16 {
+animation:zr0-ani-16 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-17 {
+animation:zr0-ani-17 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-18 {
+animation:zr0-ani-18 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-19 {
+animation:zr0-ani-19 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-20 {
+animation:zr0-ani-20 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-21 {
+animation:zr0-ani-21 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-22 {
+animation:zr0-ani-22 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-23 {
+animation:zr0-ani-23 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-24 {
+animation:zr0-ani-24 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-25 {
+animation:zr0-ani-25 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-26 {
+animation:zr0-ani-26 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-27 {
+animation:zr0-ani-27 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-28 {
+animation:zr0-ani-28 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-29 {
+animation:zr0-ani-29 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-30 {
+animation:zr0-ani-30 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-31 {
+animation:zr0-ani-31 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-32 {
+animation:zr0-ani-32 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-33 {
+animation:zr0-ani-33 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-34 {
+animation:zr0-ani-34 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M58.2 519.3l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 519.3l80.8 0l0 51.5l-80.8 0Z");
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+d:path("M58.2 444.7l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 444.7l76.3 0l0 51.5l-76.3 0Z");
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+d:path("M58.2 370.1l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 370.1l76 0l0 51.5l-76 0Z");
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+d:path("M58.2 295.4l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 295.4l84.4 0l0 51.5l-84.4 0Z");
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+d:path("M58.2 220.8l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 220.8l98.5 0l0 51.5l-98.5 0Z");
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+d:path("M58.2 146.2l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 146.2l83.4 0l0 51.5l-83.4 0Z");
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+d:path("M58.2 71.6l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M58.2 71.6l80.8 0l0 51.5l-80.8 0Z");
+}
+}
+@keyframes zr0-ani-7 {
+0% {
+d:path("M139 519.3l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M139 519.3l30.3 0l0 51.5l-30.3 0Z");
+}
+}
+@keyframes zr0-ani-8 {
+0% {
+d:path("M134.5 444.7l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M134.5 444.7l33.3 0l0 51.5l-33.3 0Z");
+}
+}
+@keyframes zr0-ani-9 {
+0% {
+d:path("M134.3 370.1l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M134.3 370.1l25.5 0l0 51.5l-25.5 0Z");
+}
+}
+@keyframes zr0-ani-10 {
+0% {
+d:path("M142.6 295.4l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M142.6 295.4l33.8 0l0 51.5l-33.8 0Z");
+}
+}
+@keyframes zr0-ani-11 {
+0% {
+d:path("M156.7 220.8l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M156.7 220.8l22.7 0l0 51.5l-22.7 0Z");
+}
+}
+@keyframes zr0-ani-12 {
+0% {
+d:path("M141.6 146.2l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M141.6 146.2l58.1 0l0 51.5l-58.1 0Z");
+}
+}
+@keyframes zr0-ani-13 {
+0% {
+d:path("M139 71.6l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M139 71.6l53 0l0 51.5l-53 0Z");
+}
+}
+@keyframes zr0-ani-14 {
+0% {
+d:path("M169.4 519.3l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M169.4 519.3l55.6 0l0 51.5l-55.6 0Z");
+}
+}
+@keyframes zr0-ani-15 {
+0% {
+d:path("M167.8 444.7l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M167.8 444.7l46 0l0 51.5l-46 0Z");
+}
+}
+@keyframes zr0-ani-16 {
+0% {
+d:path("M159.8 370.1l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M159.8 370.1l48.2 0l0 51.5l-48.2 0Z");
+}
+}
+@keyframes zr0-ani-17 {
+0% {
+d:path("M176.4 295.4l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M176.4 295.4l59.1 0l0 51.5l-59.1 0Z");
+}
+}
+@keyframes zr0-ani-18 {
+0% {
+d:path("M179.5 220.8l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M179.5 220.8l73.3 0l0 51.5l-73.3 0Z");
+}
+}
+@keyframes zr0-ani-19 {
+0% {
+d:path("M199.7 146.2l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M199.7 146.2l83.4 0l0 51.5l-83.4 0Z");
+}
+}
+@keyframes zr0-ani-20 {
+0% {
+d:path("M192.1 71.6l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M192.1 71.6l78.3 0l0 51.5l-78.3 0Z");
+}
+}
+@keyframes zr0-ani-21 {
+0% {
+d:path("M224.9 519.3l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M224.9 519.3l37.9 0l0 51.5l-37.9 0Z");
+}
+}
+@keyframes zr0-ani-22 {
+0% {
+d:path("M213.8 444.7l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M213.8 444.7l53.5 0l0 51.5l-53.5 0Z");
+}
+}
+@keyframes zr0-ani-23 {
+0% {
+d:path("M208 370.1l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M208 370.1l50.8 0l0 51.5l-50.8 0Z");
+}
+}
+@keyframes zr0-ani-24 {
+0% {
+d:path("M235.5 295.4l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M235.5 295.4l38.9 0l0 51.5l-38.9 0Z");
+}
+}
+@keyframes zr0-ani-25 {
+0% {
+d:path("M252.7 220.8l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M252.7 220.8l48 0l0 51.5l-48 0Z");
+}
+}
+@keyframes zr0-ani-26 {
+0% {
+d:path("M283 146.2l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M283 146.2l83.4 0l0 51.5l-83.4 0Z");
+}
+}
+@keyframes zr0-ani-27 {
+0% {
+d:path("M270.4 71.6l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M270.4 71.6l103.6 0l0 51.5l-103.6 0Z");
+}
+}
+@keyframes zr0-ani-28 {
+0% {
+d:path("M262.8 519.3l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M262.8 519.3l207.1 0l0 51.5l-207.1 0Z");
+}
+}
+@keyframes zr0-ani-29 {
+0% {
+d:path("M267.4 444.7l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M267.4 444.7l210.2 0l0 51.5l-210.2 0Z");
+}
+}
+@keyframes zr0-ani-30 {
+0% {
+d:path("M258.8 370.1l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M258.8 370.1l227.6 0l0 51.5l-227.6 0Z");
+}
+}
+@keyframes zr0-ani-31 {
+0% {
+d:path("M274.4 295.4l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M274.4 295.4l235.9 0l0 51.5l-235.9 0Z");
+}
+}
+@keyframes zr0-ani-32 {
+0% {
+d:path("M300.7 220.8l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M300.7 220.8l325.8 0l0 51.5l-325.8 0Z");
+}
+}
+@keyframes zr0-ani-33 {
+0% {
+d:path("M366.4 146.2l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M366.4 146.2l335.9 0l0 51.5l-335.9 0Z");
+}
+}
+@keyframes zr0-ani-34 {
+0% {
+d:path("M374 71.6l0 0l0 51.5l0 0Z");
+}
+100% {
+d:path("M374 71.6l333.4 0l0 51.5l-333.4 0Z");
+}
+}
+]]>
+
+</style>
+</svg>

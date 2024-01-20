@@ -1,0 +1,134 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M85 60l113.3 0l0 467.9l-113.3 0Z" fill="rgb(250,250,250)" fill-opacity="0.2"></path>
+<path d="M198.3 60l113.3 0l0 467.9l-113.3 0Z" fill="rgb(210,219,238)" fill-opacity="0.2"></path>
+<path d="M311.7 60l113.3 0l0 467.9l-113.3 0Z" fill="rgb(250,250,250)" fill-opacity="0.2"></path>
+<path d="M425 60l113.3 0l0 467.9l-113.3 0Z" fill="rgb(210,219,238)" fill-opacity="0.2"></path>
+<path d="M538.3 60l113.3 0l0 467.9l-113.3 0Z" fill="rgb(250,250,250)" fill-opacity="0.2"></path>
+<path d="M651.7 60l113.3 0l0 467.9l-113.3 0Z" fill="rgb(210,219,238)" fill-opacity="0.2"></path>
+<path d="M85.5 60L85.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M198.5 60L198.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M311.5 60L311.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M425.5 60L425.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M538.5 60L538.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M651.5 60L651.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M765.5 60L765.5 527.9" fill="none" stroke="#E0E6F1"></path>
+<path d="M85.5 527.9L85.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(780 527.85)" fill="#6E7079">km/s minus 299,000</text>
+<path d="M85 528.5L80 528.5" fill="none" stroke="#6E7079"></path>
+<path d="M85 434.5L80 434.5" fill="none" stroke="#6E7079"></path>
+<path d="M85 340.5L80 340.5" fill="none" stroke="#6E7079"></path>
+<path d="M85 247.5L80 247.5" fill="none" stroke="#6E7079"></path>
+<path d="M85 153.5L80 153.5" fill="none" stroke="#6E7079"></path>
+<path d="M85 60.5L80 60.5" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 481.065)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 387.495)" fill="#6E7079">1</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 293.925)" fill="#6E7079">2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 200.355)" fill="#6E7079">3</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 106.785)" fill="#6E7079">4</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(85 535.85)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(198.3333 535.85)" fill="#6E7079">200</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(311.6667 535.85)" fill="#6E7079">400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(425 535.85)" fill="#6E7079">600</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(538.3333 535.85)" fill="#6E7079">800</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(651.6667 535.85)" fill="#6E7079">1,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765 535.85)" fill="#6E7079">1,200</text>
+<path d="M566.7 456.1L566.7 506.1L640.3 506.1L640.3 456.1ZM456.2 481.1L566.7 481.1M691.3 481.1L640.3 481.1M456.2 456.1L456.2 506.1M691.3 456.1L691.3 506.1M617.7 456.1L617.7 506.1" fill="#fff" stroke="#5470c6"></path>
+<path d="M538.3 362.5L538.3 412.5L586.5 412.5L586.5 362.5ZM515.7 387.5L538.3 387.5M629 387.5L586.5 387.5M515.7 362.5L515.7 412.5M629 362.5L629 412.5M563.8 362.5L563.8 412.5" fill="#fff" stroke="#5470c6"></path>
+<path d="M561 268.9L561 318.9L583.7 318.9L583.7 268.9ZM527 293.9L561 293.9M617.7 293.9L583.7 293.9M527 268.9L527 318.9M617.7 268.9L617.7 318.9M569.5 268.9L569.5 318.9" fill="#fff" stroke="#5470c6"></path>
+<path d="M519.9 175.4L519.9 225.4L575.2 225.4L575.2 175.4ZM493 200.4L519.9 200.4M606.3 200.4L575.2 200.4M493 175.4L493 225.4M606.3 175.4L606.3 225.4M546.8 175.4L546.8 225.4" fill="#fff" stroke="#5470c6"></path>
+<path d="M542.6 81.8L542.6 131.8L578 131.8L578 81.8ZM504.3 106.8L542.6 106.8M623.3 106.8L578 106.8M504.3 81.8L504.3 131.8M623.3 81.8L623.3 131.8M544 81.8L544 131.8" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,453.3333,481.065)" fill="#91cc75" fill-opacity="0.8" class="zr0-cls-0"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,436.3333,293.925)" fill="#91cc75" fill-opacity="0.8" class="zr0-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,493,293.925)" fill="#91cc75" fill-opacity="0.8" class="zr0-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,493,293.925)" fill="#91cc75" fill-opacity="0.8" class="zr0-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,623.3333,293.925)" fill="#91cc75" fill-opacity="0.8" class="zr0-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(5,0,0,5,634.6667,293.925)" fill="#91cc75" fill-opacity="0.8" class="zr0-cls-5"></path>
+<path d="M-123.7 -5l247.4 0l0 28l-247.4 0Z" transform="translate(425 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-4.5 -4.5l150 0l0 37l-150 0Z" transform="translate(90 563.9)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#999"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(425 5)" fill="#464646">Michelson-Morley Experiment</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="7" transform="translate(90 563.9)" fill="#464646">upper: Q3 + 1.5 * IQR </text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="21" transform="translate(90 563.9)" fill="#464646">lower: Q1 - 1.5 * IQR</text>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+transform:scale(0,0);
+opacity:0;
+}
+100% {
+transform:scale(5,5);
+opacity:0.8;
+}
+}
+]]>
+
+</style>
+</svg>

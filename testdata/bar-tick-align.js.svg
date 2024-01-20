@@ -1,0 +1,116 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
+<path d="M53.7 582.5L816 582.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M53.7 452.5L816 452.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M53.7 321.5L816 321.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M53.7 190.5L816 190.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M53.7 60.5L816 60.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M53.7 582.5L816 582.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<path d="M108.5 582.4L108.5 587.4" fill="none" stroke="#6E7079"></path>
+<path d="M217.5 582.4L217.5 587.4" fill="none" stroke="#6E7079"></path>
+<path d="M326.5 582.4L326.5 587.4" fill="none" stroke="#6E7079"></path>
+<path d="M435.5 582.4L435.5 587.4" fill="none" stroke="#6E7079"></path>
+<path d="M543.5 582.4L543.5 587.4" fill="none" stroke="#6E7079"></path>
+<path d="M652.5 582.4L652.5 587.4" fill="none" stroke="#6E7079"></path>
+<path d="M761.5 582.4L761.5 587.4" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(45.66 582.37)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(45.66 451.7775)" fill="#6E7079">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(45.66 321.185)" fill="#6E7079">200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(45.66 190.5925)" fill="#6E7079">300</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(45.66 60)" fill="#6E7079">400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(108.1129 590.37)" fill="#6E7079">Mon</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(217.0186 590.37)" fill="#6E7079">Tue</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(325.9243 590.37)" fill="#6E7079">Wed</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(434.83 590.37)" fill="#6E7079">Thu</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(543.7357 590.37)" fill="#6E7079">Fri</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(652.6414 590.37)" fill="#6E7079">Sat</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(761.5471 590.37)" fill="#6E7079">Sun</text>
+<path d="M75.4 582.4l65.3 0l0 -13.1l-65.3 0Z" fill="#5470c6" class="zr0-cls-0"></path>
+<path d="M184.3 582.4l65.3 0l0 -67.9l-65.3 0Z" fill="#5470c6" class="zr0-cls-1"></path>
+<path d="M293.3 582.4l65.3 0l0 -261.2l-65.3 0Z" fill="#5470c6" class="zr0-cls-2"></path>
+<path d="M402.2 582.4l65.3 0l0 -436.2l-65.3 0Z" fill="#5470c6" class="zr0-cls-3"></path>
+<path d="M511.1 582.4l65.3 0l0 -509.3l-65.3 0Z" fill="#5470c6" class="zr0-cls-4"></path>
+<path d="M620 582.4l65.3 0l0 -431l-65.3 0Z" fill="#5470c6" class="zr0-cls-5"></path>
+<path d="M728.9 582.4l65.3 0l0 -287.3l-65.3 0Z" fill="#5470c6" class="zr0-cls-6"></path>
+<style ><![CDATA[
+.zr0-cls-0 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-3 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-4 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-5 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-6 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+@keyframes zr0-ani-0 {
+0% {
+d:path("M75.4 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M75.4 582.4l65.3 0l0 -13.1l-65.3 0Z");
+}
+}
+@keyframes zr0-ani-1 {
+0% {
+d:path("M184.3 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M184.3 582.4l65.3 0l0 -67.9l-65.3 0Z");
+}
+}
+@keyframes zr0-ani-2 {
+0% {
+d:path("M293.3 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M293.3 582.4l65.3 0l0 -261.2l-65.3 0Z");
+}
+}
+@keyframes zr0-ani-3 {
+0% {
+d:path("M402.2 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M402.2 582.4l65.3 0l0 -436.2l-65.3 0Z");
+}
+}
+@keyframes zr0-ani-4 {
+0% {
+d:path("M511.1 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M511.1 582.4l65.3 0l0 -509.3l-65.3 0Z");
+}
+}
+@keyframes zr0-ani-5 {
+0% {
+d:path("M620 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M620 582.4l65.3 0l0 -431l-65.3 0Z");
+}
+}
+@keyframes zr0-ani-6 {
+0% {
+d:path("M728.9 582.4l65.3 0l0 0l-65.3 0Z");
+}
+100% {
+d:path("M728.9 582.4l65.3 0l0 -287.3l-65.3 0Z");
+}
+}
+]]>
+
+</style>
+</svg>
