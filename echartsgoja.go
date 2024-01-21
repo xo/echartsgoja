@@ -108,9 +108,8 @@ func (vm *ECharts) Version() (string, error) {
 	if err := vm.init(); err != nil {
 		return "", err
 	}
-	r := goja.New()
 	var f func() (string, error)
-	if err := vm.run(r, "version", &f); err != nil {
+	if err := vm.run(goja.New(), "version", &f); err != nil {
 		return "", err
 	}
 	return f()
