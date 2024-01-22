@@ -144,7 +144,7 @@ func (vm *ECharts) RenderOptions(ctx context.Context, opts string) (res string, 
 func (vm *ECharts) RenderScript(ctx context.Context, src string) (res string, err error) {
 	// compile
 	var p *goja.Program
-	if p, err = compile("script", scriptHeader+cleanRE.ReplaceAllString(src, "")+scriptFooter); err != nil {
+	if p, err = compile("script", fmt.Sprintf(renderScript, cleanRE.ReplaceAllString(src, ""))); err != nil {
 		return
 	}
 	defer func() {
@@ -263,16 +263,14 @@ func compileEmbeddedScript(name string) (*goja.Program, error) {
 // cleanRE is a regexp for removing export {} from scripts.
 var cleanRE = regexp.MustCompile(`export\s+\{\};`)
 
-const scriptHeader = `
-var exports = {};
-var app = {};
-var option = {};
-`
-
-const scriptFooter = `
-
-option;
-`
+// renderScript is the render script.
+const renderScript = `(function() {
+  let exports = {};
+  let app = {};
+  let option = {};
+  %s
+  return option;
+})();`
 
 // renderOptionsFunc is the signature for the render_options func.
 type renderOptionsFunc func(width, height int, opts string) (string, error)
