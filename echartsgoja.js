@@ -12,7 +12,7 @@ function version() {
 }
 
 function render_options(width, height, opts) {
-  var chart = echarts.init(null, null, {
+  let chart = echarts.init(null, null, {
     renderer: "svg",
     ssr: true,
     width: width,
