@@ -10,6 +10,6 @@ require (
 require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
-	github.com/google/pprof v0.0.0-20230926050212-f7f687d19a98 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	github.com/google/pprof v0.0.0-20240130152714-0ed6a68c8d9e // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
