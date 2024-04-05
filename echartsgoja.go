@@ -20,6 +20,12 @@ import (
 	"github.com/dop251/goja_nodejs/require"
 )
 
+// DefaultWidth is the default chart width.
+var DefaultWidth = 400
+
+// DefaultHeight is the default chart height.
+var DefaultHeight = 300
+
 // ECharts handles rendering [Apache ECharts] as SVGs, wrapping a [goja]
 // runtime vm.
 //
@@ -38,8 +44,8 @@ type ECharts struct {
 // New creates a new echarts instance.
 func New(opts ...Option) *ECharts {
 	vm := &ECharts{
-		width:  400,
-		height: 300,
+		width:  DefaultWidth,
+		height: DefaultHeight,
 	}
 	for _, o := range opts {
 		o(vm)
