@@ -1,33 +1,33 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<polyline points="247.8 270.8 257.7 259.5 276.9 259.5" fill="none" stroke="#5470c6"></polyline>
-<polyline points="256.8 339.9 269.3 348.2 288.3 348.2" fill="none" stroke="#91cc75"></polyline>
-<polyline points="201 362.4 197.8 377 158.9 377" fill="none" stroke="#fac858"></polyline>
-<polyline points="164.4 333.2 150.9 339.6 134.7 339.6" fill="none" stroke="#ee6666"></polyline>
-<polyline points="161.8 294.5 147.5 290 129.4 290" fill="none" stroke="#73c0de"></polyline>
-<polyline points="180.2 268.3 171.1 257.7 152.2 257.7" fill="none" stroke="#3ba272"></polyline>
-<polyline points="202.6 258.3 199.9 243.6 150.7 243.6" fill="none" stroke="#fc8452"></polyline>
-<polyline points="672.8 270.8 682.7 259.5 798.2 259.5" fill="none" stroke="#5470c6"></polyline>
-<polyline points="681.8 339.9 694.3 348.2 767.6 348.2" fill="none" stroke="#91cc75"></polyline>
-<polyline points="626 362.4 622.8 377 487.6 377" fill="none" stroke="#fac858"></polyline>
-<polyline points="589.4 333.2 575.9 339.6 486.2 339.6" fill="none" stroke="#ee6666"></polyline>
-<polyline points="586.8 294.5 572.5 290 471.4 290" fill="none" stroke="#73c0de"></polyline>
-<polyline points="605.2 268.3 596.1 257.7 499.6 257.7" fill="none" stroke="#3ba272"></polyline>
-<polyline points="627.6 258.3 624.9 243.6 479.5 243.6" fill="none" stroke="#fc8452"></polyline>
-<path d="M212.5 257.4A53.1 53.1 0 0 1 265.2 304.2L212.5 310.5Z" fill="#5470c6"></path>
-<path d="M265.2 304.2A53.1 53.1 0 0 1 227.2 361.6L212.5 310.5Z" fill="#91cc75"></path>
-<path d="M227.2 361.6A53.1 53.1 0 0 1 177.7 350.6L212.5 310.5Z" fill="#fac858"></path>
-<path d="M177.7 350.6A53.1 53.1 0 0 1 159.4 311.9L212.5 310.5Z" fill="#ee6666"></path>
-<path d="M159.4 311.9A53.1 53.1 0 0 1 169.8 278.9L212.5 310.5Z" fill="#73c0de"></path>
-<path d="M169.8 278.9A53.1 53.1 0 0 1 193.1 261L212.5 310.5Z" fill="#3ba272"></path>
-<path d="M193.1 261A53.1 53.1 0 0 1 212.5 257.4L212.5 310.5Z" fill="#fc8452"></path>
-<path d="M637.5 257.4A53.1 53.1 0 0 1 690.2 304.2L637.5 310.5Z" fill="#5470c6"></path>
-<path d="M690.2 304.2A53.1 53.1 0 0 1 652.2 361.6L637.5 310.5Z" fill="#91cc75"></path>
-<path d="M652.2 361.6A53.1 53.1 0 0 1 602.7 350.6L637.5 310.5Z" fill="#fac858"></path>
-<path d="M602.7 350.6A53.1 53.1 0 0 1 584.4 311.9L637.5 310.5Z" fill="#ee6666"></path>
-<path d="M584.4 311.9A53.1 53.1 0 0 1 594.8 278.9L637.5 310.5Z" fill="#73c0de"></path>
-<path d="M594.8 278.9A53.1 53.1 0 0 1 618.1 261L637.5 310.5Z" fill="#3ba272"></path>
-<path d="M618.1 261A53.1 53.1 0 0 1 637.5 257.4L637.5 310.5Z" fill="#fc8452"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<polyline points="247.8 270.8 257.7 259.5 276.9 259.5" fill="transparent" stroke="#5470c6" class="zr0-cls-0"></polyline>
+<polyline points="256.8 339.9 269.3 348.2 288.3 348.2" fill="transparent" stroke="#91cc75" class="zr0-cls-0"></polyline>
+<polyline points="201 362.4 197.8 377 158.9 377" fill="transparent" stroke="#fac858" class="zr0-cls-0"></polyline>
+<polyline points="164.4 333.2 150.9 339.6 134.7 339.6" fill="transparent" stroke="#ee6666" class="zr0-cls-0"></polyline>
+<polyline points="161.8 294.5 147.5 290 129.4 290" fill="transparent" stroke="#73c0de" class="zr0-cls-0"></polyline>
+<polyline points="180.2 268.3 171.1 257.7 152.2 257.7" fill="transparent" stroke="#3ba272" class="zr0-cls-0"></polyline>
+<polyline points="202.6 258.3 199.9 243.6 150.7 243.6" fill="transparent" stroke="#fc8452" class="zr0-cls-0"></polyline>
+<polyline points="672.8 270.8 682.7 259.5 798.2 259.5" fill="transparent" stroke="#5470c6" class="zr0-cls-0"></polyline>
+<polyline points="681.8 339.9 694.3 348.2 767.6 348.2" fill="transparent" stroke="#91cc75" class="zr0-cls-0"></polyline>
+<polyline points="626 362.4 622.8 377 487.6 377" fill="transparent" stroke="#fac858" class="zr0-cls-0"></polyline>
+<polyline points="589.4 333.2 575.9 339.6 486.2 339.6" fill="transparent" stroke="#ee6666" class="zr0-cls-0"></polyline>
+<polyline points="586.8 294.5 572.5 290 471.4 290" fill="transparent" stroke="#73c0de" class="zr0-cls-0"></polyline>
+<polyline points="605.2 268.3 596.1 257.7 499.6 257.7" fill="transparent" stroke="#3ba272" class="zr0-cls-0"></polyline>
+<polyline points="627.6 258.3 624.9 243.6 479.5 243.6" fill="transparent" stroke="#fc8452" class="zr0-cls-0"></polyline>
+<path d="M212.5 257.4A53.1 53.1 0 0 1 265.2 304.2L212.5 310.5Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M265.2 304.2A53.1 53.1 0 0 1 227.2 361.6L212.5 310.5Z" fill="#91cc75" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M227.2 361.6A53.1 53.1 0 0 1 177.7 350.6L212.5 310.5Z" fill="#fac858" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M177.7 350.6A53.1 53.1 0 0 1 159.4 311.9L212.5 310.5Z" fill="#ee6666" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M159.4 311.9A53.1 53.1 0 0 1 169.8 278.9L212.5 310.5Z" fill="#73c0de" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M169.8 278.9A53.1 53.1 0 0 1 193.1 261L212.5 310.5Z" fill="#3ba272" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M193.1 261A53.1 53.1 0 0 1 212.5 257.4L212.5 310.5Z" fill="#fc8452" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-7"></path>
+<path d="M637.5 257.4A53.1 53.1 0 0 1 690.2 304.2L637.5 310.5Z" fill="#5470c6" ecmeta_series_index="1" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1"></path>
+<path d="M690.2 304.2A53.1 53.1 0 0 1 652.2 361.6L637.5 310.5Z" fill="#91cc75" ecmeta_series_index="1" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M652.2 361.6A53.1 53.1 0 0 1 602.7 350.6L637.5 310.5Z" fill="#fac858" ecmeta_series_index="1" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-3"></path>
+<path d="M602.7 350.6A53.1 53.1 0 0 1 584.4 311.9L637.5 310.5Z" fill="#ee6666" ecmeta_series_index="1" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M584.4 311.9A53.1 53.1 0 0 1 594.8 278.9L637.5 310.5Z" fill="#73c0de" ecmeta_series_index="1" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-5"></path>
+<path d="M594.8 278.9A53.1 53.1 0 0 1 618.1 261L637.5 310.5Z" fill="#3ba272" ecmeta_series_index="1" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-6"></path>
+<path d="M618.1 261A53.1 53.1 0 0 1 637.5 257.4L637.5 310.5Z" fill="#fc8452" ecmeta_series_index="1" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-7"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(318.75 259.5438)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Apples</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(318.75 348.1645)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Str...</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(106.25 377.0165)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Bananas</text>
@@ -42,10 +42,49 @@
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(435 289.9864)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pears</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(435 257.658)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Pineapples</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(435 243.558)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Grapes</text>
-<path d="M-5 -5l139.4 0l0 28l-139.4 0Z" transform="translate(5 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
-<path d="M-43 -5l86 0l0 32l-86 0Z" transform="translate(217.5 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
-<path d="M-33.4 -5l66.9 0l0 32l-66.9 0Z" transform="translate(642.5 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-5 -5l139.4 0l0 28l-139.4 0Z" transform="translate(5 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-8"></path>
+<path d="M-43 -5l86 0l0 32l-86 0Z" transform="translate(217.5 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-8"></path>
+<path d="M-33.4 -5l66.9 0l0 32l-66.9 0Z" transform="translate(642.5 470.75)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-8"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:18px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="9" transform="translate(5 5)" fill="#464646">Pie label margin</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(217.5 470.75)" fill="#6E7079">margin: &quot;25%&quot;</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="16" transform="translate(642.5 470.75)" fill="#6E7079">margin: 10</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+cursor:pointer;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(159,224,128,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,220,96,1);
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(255,112,112,1);
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:rgba(126,211,244,1);
+}
+.zr0-cls-6:hover {
+cursor:pointer;
+fill:rgba(64,178,125,1);
+}
+.zr0-cls-7:hover {
+cursor:pointer;
+fill:rgba(255,145,90,1);
+}
+.zr0-cls-8:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
 </svg>

@@ -1,16 +1,48 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M-5 -5l46.7 0l0 144l-46.7 0Z" transform="translate(16 16)" fill="#eee" stroke="#ccc" stroke-width="2"></path>
-<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 16)" fill="#070093"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M-5 -5l46.7 0l0 144l-46.7 0Z" transform="translate(16 16)" fill="#eee" stroke="#ccc" stroke-width="2" class="zr0-cls-0"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 16)" fill="#070093" class="zr0-cls-1"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" x="30" y="7" transform="translate(16 16)" fill="#333">0</text>
-<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 40)" fill="#1c3fbf"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 40)" fill="#1c3fbf" class="zr0-cls-2"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" x="30" y="7" transform="translate(16 40)" fill="#333">1</text>
-<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 64)" fill="#1482e5"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 64)" fill="#1482e5" class="zr0-cls-3"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" x="30" y="7" transform="translate(16 64)" fill="#333">2</text>
-<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 88)" fill="#70b4eb"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 88)" fill="#70b4eb" class="zr0-cls-4"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" x="30" y="7" transform="translate(16 88)" fill="#333">3</text>
-<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 112)" fill="#b4e0f3"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 112)" fill="#b4e0f3" class="zr0-cls-5"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" x="30" y="7" transform="translate(16 112)" fill="#333">4</text>
-<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 136)" fill="#ffffff"></path>
+<path d="M3.5 0L16.5 0A3.5 3.5 0 0 1 20 3.5L20 10.5A3.5 3.5 0 0 1 16.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(16 136)" fill="#ffffff" class="zr0-cls-6"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 12px sans-serif" x="30" y="7" transform="translate(16 136)" fill="#333">5</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(7,0,161,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(30,69,210,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(22,143,251,1);
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(123,198,255,1);
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:rgba(198,246,255,1);
+}
+.zr0-cls-6:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+
+]]>
+
+</style>
 </svg>

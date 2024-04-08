@@ -1,27 +1,27 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 428.5L765 428.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 305.5L765 305.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 183.5L765 183.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85.5 60L85.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M255.5 60L255.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M425.5 60L425.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M595.5 60L595.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M765.5 60L765.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M85.5 551L85.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
-<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
-<path d="M85 551.5L80 551.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 428.5L80 428.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 305.5L80 305.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 183.5L80 183.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 60.5L80 60.5" fill="none" stroke="#6E7079"></path>
-<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M255.5 551L255.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M425.5 551L425.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M595.5 551L595.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M85 551.5L765 551.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 428.5L765 428.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 305.5L765 305.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 183.5L765 183.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 60.5L765 60.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85.5 60L85.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M255.5 60L255.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M425.5 60L425.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M595.5 60L595.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M765.5 60L765.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85.5 551L85.5 60" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M85 551.5L765 551.5" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M85 551.5L80 551.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 428.5L80 428.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 305.5L80 305.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 183.5L80 183.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 60.5L80 60.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85.5 551L85.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M255.5 551L255.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425.5 551L425.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M595.5 551L595.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M765.5 551L765.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 428.25)" fill="#6E7079">0.5</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 305.5)" fill="#6E7079">1</text>
@@ -32,8 +32,8 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(425 559)" fill="#6E7079">1</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(595 559)" fill="#6E7079">1.5</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765 559)" fill="#6E7079">2</text>
-<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1" transform="matrix(180,0,0,180,425,305.5)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-0"></path>
-<path d="M-105 -40L105 -40A5 5 0 0 1 110 -35L110 35A5 5 0 0 1 105 40L-105 40A5 5 0 0 1 -110 35L-110 -35A5 5 0 0 1 -105 -40" transform="translate(425 120.5)" fill="rgb(0,255,255)" fill-opacity="0.24" stroke="#555" stroke-width="4" paint-order="stroke" stroke-opacity="0.8" filter="url(#zr0-s0)"></path>
+<path d="M-0.5 -1L0.5 -1A0.5 0.5 0 0 1 1 -0.5L1 0.5A0.5 0.5 0 0 1 0.5 1L-0.5 1A0.5 0.5 0 0 1 -1 0.5L-1 -0.5A0.5 0.5 0 0 1 -0.5 -1" transform="matrix(180,0,0,180,425,305.5)" fill="#5470c6" fill-opacity="0.8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1 zr0-cls-2"></path>
+<path d="M-105 -40L105 -40A5 5 0 0 1 110 -35L110 35A5 5 0 0 1 105 40L-105 40A5 5 0 0 1 -110 35L-110 -35A5 5 0 0 1 -105 -40" transform="translate(425 120.5)" fill="rgb(0,255,255)" fill-opacity="0.24" stroke="#555" stroke-width="4" paint-order="stroke" stroke-opacity="0.8" filter="url(#zr0-s0)" class="zr0-cls-3"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;" xml:space="preserve" transform="translate(425 120.5)" fill="#fff" fill-opacity="0.8" stroke="#000" stroke-width="3" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">Label Text</text>
 <defs >
 <filter id="zr0-s0" x="-100%" y="-100%" width="300%" height="300%">
@@ -41,8 +41,19 @@
 </filter>
 </defs>
 <style ><![CDATA[
-.zr0-cls-0 {
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1 {
 animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(0,255,255,0.3);
 }
 @keyframes zr0-ani-0 {
 0% {

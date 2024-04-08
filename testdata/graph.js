@@ -34,6 +34,7 @@ $.getJSON(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
             {
                 name: 'Les Miserables',
                 type: 'graph',
+                legendHoverLink: false,
                 layout: 'none',
                 data: graph.nodes,
                 links: graph.links,

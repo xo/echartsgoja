@@ -1,33 +1,33 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 453.5L765 453.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 354.5L765 354.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 256.5L765 256.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 158.5L765 158.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85.5 60L85.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M198.5 60L198.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M311.5 60L311.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M425.5 60L425.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M538.5 60L538.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M651.5 60L651.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M765.5 60L765.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M85.5 551L85.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
-<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
-<path d="M85 551.5L80 551.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 453.5L80 453.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 354.5L80 354.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 256.5L80 256.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 158.5L80 158.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 60.5L80 60.5" fill="none" stroke="#6E7079"></path>
-<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M198.5 551L198.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M311.5 551L311.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M425.5 551L425.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M538.5 551L538.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M651.5 551L651.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M85 551.5L765 551.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 453.5L765 453.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 354.5L765 354.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 256.5L765 256.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 158.5L765 158.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 60.5L765 60.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85.5 60L85.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M198.5 60L198.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M311.5 60L311.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M425.5 60L425.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M538.5 60L538.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M651.5 60L651.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M765.5 60L765.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85.5 551L85.5 60" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M85 551.5L765 551.5" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M85 551.5L80 551.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 453.5L80 453.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 354.5L80 354.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 256.5L80 256.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 158.5L80 158.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 60.5L80 60.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85.5 551L85.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M198.5 551L198.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M311.5 551L311.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425.5 551L425.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M538.5 551L538.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M651.5 551L651.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M765.5 551L765.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 452.8)" fill="#6E7079">5</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 354.6)" fill="#6E7079">10</text>
@@ -41,6 +41,14 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(538.3333 559)" fill="#6E7079">50</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(651.6667 559)" fill="#6E7079">60</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765 559)" fill="#6E7079">70</text>
-<path d="M-26.1 -5l52.1 0l0 28l-52.1 0Z" transform="translate(425 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M-26.1 -5l52.1 0l0 28l-52.1 0Z" transform="translate(425 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:18px;font-family:sans-serif;font-weight:bold;" y="9" transform="translate(425 5)" fill="#464646">Profit</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
 </svg>

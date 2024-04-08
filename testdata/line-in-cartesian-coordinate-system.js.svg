@@ -1,31 +1,31 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M85 551.5L765 551.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 453.5L765 453.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 354.5L765 354.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 256.5L765 256.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 158.5L765 158.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85 60.5L765 60.5" fill="none" stroke="#E0E6F1"></path>
-<path d="M85.5 60L85.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M221.5 60L221.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M357.5 60L357.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M493.5 60L493.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M629.5 60L629.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M765.5 60L765.5 551" fill="none" stroke="#E0E6F1"></path>
-<path d="M85.5 551L85.5 60" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
-<path d="M85 551.5L765 551.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
-<path d="M85 551.5L80 551.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 453.5L80 453.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 354.5L80 354.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 256.5L80 256.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 158.5L80 158.5" fill="none" stroke="#6E7079"></path>
-<path d="M85 60.5L80 60.5" fill="none" stroke="#6E7079"></path>
-<path d="M85.5 551L85.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M221.5 551L221.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M357.5 551L357.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M493.5 551L493.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M629.5 551L629.5 556" fill="none" stroke="#6E7079"></path>
-<path d="M765.5 551L765.5 556" fill="none" stroke="#6E7079"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M85 551.5L765 551.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 453.5L765 453.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 354.5L765 354.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 256.5L765 256.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 158.5L765 158.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85 60.5L765 60.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85.5 60L85.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M221.5 60L221.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M357.5 60L357.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M493.5 60L493.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M629.5 60L629.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M765.5 60L765.5 551" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M85.5 551L85.5 60" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M85 551.5L765 551.5" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M85 551.5L80 551.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 453.5L80 453.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 354.5L80 354.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 256.5L80 256.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 158.5L80 158.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85 60.5L80 60.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M85.5 551L85.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M221.5 551L221.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M357.5 551L357.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M493.5 551L493.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M629.5 551L629.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M765.5 551L765.5 556" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 551)" fill="#6E7079">0</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 452.8)" fill="#6E7079">20</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 354.6)" fill="#6E7079">40</text>
@@ -39,19 +39,33 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(629 559)" fill="#6E7079">40</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(765 559)" fill="#6E7079">50</text>
 <g clip-path="url(#zr0-c0)">
-<path d="M221 354.6L765 60L629 452.8" fill="none" stroke="#5470c6" stroke-width="2" stroke-linejoin="bevel"></path>
+<path d="M221 354.6L765 60L629 452.8" fill="transparent" stroke="#5470c6" stroke-width="2" stroke-linejoin="bevel" class="zr0-cls-3"></path>
 </g>
-<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,221,354.6)" fill="#fff" stroke="#5470c6"></path>
-<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,765,60)" fill="#fff" stroke="#5470c6"></path>
-<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,629,452.8)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,221,354.6)" fill="#fff" stroke="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,765,60)" fill="#fff" stroke="#5470c6" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(2,0,0,2,629,452.8)" fill="#fff" stroke="#5470c6" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-4"></path>
 <defs >
 <clipPath id="zr0-c0">
-<path d="M84 59l682 0l0 493l-682 0Z" fill="#000" class="zr0-cls-0"></path>
+<path d="M84 59l682 0l0 493l-682 0Z" fill="#000" class="zr0-cls-1 zr0-cls-2"></path>
 </clipPath>
 </defs>
 <style ><![CDATA[
-.zr0-cls-0 {
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1 {
 animation:zr0-ani-0 1s linear both;
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
 }
 @keyframes zr0-ani-0 {
 0% {

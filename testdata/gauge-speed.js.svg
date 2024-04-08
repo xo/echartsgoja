@@ -1,36 +1,47 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M260.3 475.2A232.9 232.9 0 1 1 589.7 475.2L576.9 462.4A214.9 214.9 0 1 0 273.1 462.4Z" fill="#E6EBF8"></path>
-<path d="M280.1 455.4L290.7 444.8" fill="none" stroke="#999" stroke-width="2"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M260.3 475.2A232.9 232.9 0 1 1 589.7 475.2L576.9 462.4A214.9 214.9 0 1 0 273.1 462.4Z" fill="#E6EBF8" class="zr0-cls-0"></path>
+<path d="M280.1 455.4L290.7 444.8" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" x="295.6878473905101" y="439.8121526094899" fill="#999">0</text>
-<path d="M230.2 373.8L244.4 369.2" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M230.2 373.8L244.4 369.2" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" x="251.0755395825238" y="367.01148284631853" fill="#999">10</text>
-<path d="M222.6 278.5L237.5 280.8" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M222.6 278.5L237.5 280.8" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" x="244.3764947136642" y="281.8920472057678" fill="#999">20</text>
-<path d="M259.3 190.1L271.4 198.9" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M259.3 190.1L271.4 198.9" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" x="277.05101715368147" y="203.008771987014" fill="#999">30</text>
-<path d="M332 128L338.8 141.3" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M332 128L338.8 141.3" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" x="341.97648736013036" y="157.55718188905223" fill="#999">40</text>
-<path d="M425 105.6L425 120.6" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M425 105.6L425 120.6" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:20px;font-family:sans-serif;" x="424.99999999999994" y="137.625" fill="#999">50</text>
-<path d="M518 128L511.2 141.3" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M518 128L511.2 141.3" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:20px;font-family:sans-serif;" x="508.0235126398696" y="157.55718188905223" fill="#999">60</text>
-<path d="M590.7 190.1L578.6 198.9" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M590.7 190.1L578.6 198.9" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:20px;font-family:sans-serif;" x="572.9489828463185" y="203.00877198701397" fill="#999">70</text>
-<path d="M627.4 278.5L612.5 280.8" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M627.4 278.5L612.5 280.8" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:20px;font-family:sans-serif;" x="605.6235052863358" y="281.8920472057677" fill="#999">80</text>
-<path d="M619.8 373.8L605.6 369.2" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M619.8 373.8L605.6 369.2" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:20px;font-family:sans-serif;" x="598.9244604174762" y="367.0114828463185" fill="#999">90</text>
-<path d="M569.9 455.4L559.3 444.8" fill="none" stroke="#999" stroke-width="2"></path>
+<path d="M569.9 455.4L559.3 444.8" fill="transparent" stroke="#999" stroke-width="2" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:20px;font-family:sans-serif;" x="554.3121526094899" y="439.81215260948983" fill="#999">100</text>
-<path d="M365 453.5l120 0l0 40l-120 0Z" fill="rgb(0,0,0)" fill-opacity="0"></path>
+<path d="M365 453.5l120 0l0 40l-120 0Z" fill="rgb(0,0,0)" fill-opacity="0" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:80px;font-family:sans-serif;font-weight:bold;" x="425" y="473.5125" fill="#464646">70</text>
-<path d="M0 12L-6 0L0 -139.7L6 0L0 12" transform="matrix(0.588,0.809,-0.809,0.588,425,310.5)" fill="#5470c6" class="zr0-cls-0"></path>
-<path d="M437.5 310.5A12.5 12.5 0 1 1 437.4 309.3A12.5 12.5 0 0 1 437.5 310.5" fill="#fff" stroke="#5470c6" stroke-width="10"></path>
-<path d="M260.3 475.2A232.9 232.9 0 1 1 613.4 173.6L598.8 184.2A214.9 214.9 0 1 0 273.1 462.4Z" fill="#5470c6"></path>
+<path d="M0 12L-6 0L0 -139.7L6 0L0 12" transform="matrix(0.588,0.809,-0.809,0.588,425,310.5)" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1 zr0-cls-2"></path>
+<path d="M437.5 310.5A12.5 12.5 0 1 1 437.4 309.3A12.5 12.5 0 0 1 437.5 310.5" fill="#fff" stroke="#5470c6" stroke-width="10" class="zr0-cls-3"></path>
+<path d="M260.3 475.2A232.9 232.9 0 1 1 613.4 173.6L598.8 184.2A214.9 214.9 0 1 0 273.1 462.4Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
 <style ><![CDATA[
-.zr0-cls-0 {
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1 {
 animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
 }
 @keyframes zr0-ani-0 {
 0% {

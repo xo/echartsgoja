@@ -1,10 +1,10 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M0 0l330 0l0 100l-330 0Z" transform="translate(-135 -20)" fill="#fff" stroke="#999" stroke-width="2" filter="url(#zr0-s0)"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M0 0l330 0l0 100l-330 0Z" transform="translate(-135 -20)" fill="#fff" stroke="#999" stroke-width="2" filter="url(#zr0-s0)" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: 20px "STHeiti", sans-serif" xml:space="preserve" y="10" transform="translate(-112.9 0)" fill="#000">这个文本框的 bounding 为 &quot;raw&quot;</text>
 <text dominant-baseline="central" text-anchor="start" style="font: 20px "STHeiti", sans-serif" xml:space="preserve" y="30" transform="translate(-112.9 0)" fill="#000">表示定位时仅仅取 group 自己的</text>
 <text dominant-baseline="central" text-anchor="start" style="font: 20px "STHeiti", sans-serif" xml:space="preserve" y="50" transform="translate(-112.9 0)" fill="#000">未经过 transform 的包围盒。</text>
-<path d="M0 0l330 0l0 100l-330 0Z" transform="translate(1 520)" fill="#fff" stroke="#999" stroke-width="2" filter="url(#zr0-s0)"></path>
+<path d="M0 0l330 0l0 100l-330 0Z" transform="translate(1 520)" fill="#fff" stroke="#999" stroke-width="2" filter="url(#zr0-s0)" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: 20px "STHeiti", sans-serif" xml:space="preserve" y="10" transform="translate(29.2 540)" fill="#000">这个文本框的 bounding 为 &quot;all&quot;</text>
 <text dominant-baseline="central" text-anchor="start" style="font: 20px "STHeiti", sans-serif" xml:space="preserve" y="30" transform="translate(29.2 540)" fill="#000">表示定位时取整个 group 的</text>
 <text dominant-baseline="central" text-anchor="start" style="font: 20px "STHeiti", sans-serif" xml:space="preserve" y="50" transform="translate(29.2 540)" fill="#000">经过 transform 后的包围盒。</text>
@@ -13,4 +13,13 @@
 <feDropShadow dx="3" dy="3" stdDeviation="4 4" flood-color="rgb(0,0,0)" flood-opacity="0.3"></feDropShadow>
 </filter>
 </defs>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+
+]]>
+
+</style>
 </svg>

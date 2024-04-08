@@ -1,0 +1,43 @@
+<svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M425 310.5A0 0 0 1 1 425 310.5M425 269.1A41.4 41.4 0 1 1 383.6 310.5M425 227.7A82.8 82.8 0 1 1 342.2 310.5M425 186.3A124.2 124.2 0 1 1 300.8 310.5M425 144.9A165.6 165.6 0 1 1 259.4 310.5M425 103.5A207 207 0 1 1 218 310.5M425 62.1A248.4 248.4 0 1 1 176.6 310.5" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="606.3021786962308" y="123.19782130376925" fill="#6E7079">S1</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="606.3021786962308" y="497.8021786962307" fill="#6E7079">S2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" x="243.69782130376925" y="497.8021786962308" fill="#6E7079">S3</text>
+<path d="M425 57.1L425 62.1M678.4 310.5L673.4 310.5M425 563.9L425 558.9M171.6 310.5L176.6 310.5" fill="#000" stroke="#6E7079" class="zr0-cls-1"></path>
+<path d="M425.5 310.5L425.5 62.1" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M425 62.1A248.4 248.4 0 1 1 176.6 310.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 310.5L420 310.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 269.5L420 269.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 227.5L420 227.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 186.5L420 186.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 145.5L420 145.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 103.5L420 103.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M425 62.5L420 62.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 310.5)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 269.1)" fill="#6E7079">0.5</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 227.7)" fill="#6E7079">1</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 186.3)" fill="#6E7079">1.5</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 144.9)" fill="#6E7079">2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 103.5)" fill="#6E7079">2.5</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(417 62.1)" fill="#6E7079">3</text>
+<path d="M438 228.7A82.8 82.8 0 0 1 506.8 297.5L425 310.5Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M588.6 336.4A165.6 165.6 0 0 1 450.9 474.1L425 310.5Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<path d="M386.1 555.8A248.4 248.4 0 0 1 179.7 349.4L425 310.5Z" fill="#5470c6" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-2"></path>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+
+]]>
+
+</style>
+</svg>

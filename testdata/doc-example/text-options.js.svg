@@ -1,15 +1,15 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(0.5,0,0,0.5,425,305.5)" fill="#5470c6" fill-opacity="0.8" class="zr0-cls-0"></path>
-<path d="M-287.3 -100L287.3 -100A5 5 0 0 1 292.3 -95L292.3 95A5 5 0 0 1 287.3 100L-287.3 100A5 5 0 0 1 -292.3 95L-292.3 -95A5 5 0 0 1 -287.3 -100" transform="translate(425 305.5)" fill="#eee" fill-opacity="0.8" stroke="#333" stroke-width="4" paint-order="stroke" stroke-opacity="0.8" filter="url(#zr0-s0)"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M1 0A1 1 0 1 1 1 -0.1A1 1 0 0 1 1 0" transform="matrix(0.5,0,0,0.5,425,305.5)" fill="#5470c6" fill-opacity="0.8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-0 zr0-cls-1"></path>
+<path d="M-287.3 -100L287.3 -100A5 5 0 0 1 292.3 -95L292.3 95A5 5 0 0 1 287.3 100L-287.3 100A5 5 0 0 1 -292.3 95L-292.3 -95A5 5 0 0 1 -287.3 -100" transform="translate(425 305.5)" fill="#eee" fill-opacity="0.8" stroke="#333" stroke-width="4" paint-order="stroke" stroke-opacity="0.8" filter="url(#zr0-s0)" class="zr0-cls-2"></path>
 <text dominant-baseline="central" text-anchor="start" style="font: normal normal 14px sans-serif" xml:space="preserve" x="-282.32000000000005" y="-75" transform="translate(425 305.5)" fill="#000" fill-opacity="0.8">Plain text</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" xml:space="preserve" x="-282.32000000000005" y="-45" transform="translate(425 305.5)" fill="#fff" fill-opacity="0.8" stroke="#000" stroke-width="3" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">textBorderColor + textBorderWidth</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:sans-serif;" xml:space="preserve" x="-282.32000000000005" y="-15" transform="translate(425 305.5)" fill="#fff" fill-opacity="0.8" filter="url(#zr0-s1)">textShadowColor + textShadowBlur + textShadowOffsetX + textShadowOffsetY</text>
-<path d="M-271.3 4L-49.1 4A11 11 0 0 1 -38.1 15L-38.1 15A11 11 0 0 1 -49.1 26L-271.3 26A11 11 0 0 1 -282.3 15L-282.3 15A11 11 0 0 1 -271.3 4" transform="translate(425 305.5)" fill="#339911" fill-opacity="0.8"></path>
+<path d="M-271.3 4L-49.1 4A11 11 0 0 1 -38.1 15L-38.1 15A11 11 0 0 1 -49.1 26L-271.3 26A11 11 0 0 1 -282.3 15L-282.3 15A11 11 0 0 1 -271.3 4" transform="translate(425 305.5)" fill="#339911" fill-opacity="0.8" class="zr0-cls-3"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="-277.32000000000005" y="15" transform="translate(425 305.5)" fill="#fff" fill-opacity="0.8">backgroundColor + borderRadius + padding</text>
-<path d="M-279.3 34L9.9 34A3 3 0 0 1 12.9 37L12.9 53A3 3 0 0 1 9.9 56L-279.3 56A3 3 0 0 1 -282.3 53L-282.3 37A3 3 0 0 1 -279.3 34" transform="translate(425 305.5)" fill="none" stroke="#449911" stroke-opacity="0.8"></path>
+<path d="M-279.3 34L9.9 34A3 3 0 0 1 12.9 37L12.9 53A3 3 0 0 1 9.9 56L-279.3 56A3 3 0 0 1 -282.3 53L-282.3 37A3 3 0 0 1 -279.3 34" transform="translate(425 305.5)" fill="transparent" stroke="#449911" stroke-opacity="0.8" class="zr0-cls-4"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="-277.32000000000005" y="45" transform="translate(425 305.5)" fill="#000" fill-opacity="0.8">borderColor + borderWidth + borderRadius + padding</text>
-<path d="M-282.3 64l347.6 0l0 22l-347.6 0Z" transform="translate(425 305.5)" fill="#992233" fill-opacity="0.8" filter="url(#zr0-s2)"></path>
+<path d="M-282.3 64l347.6 0l0 22l-347.6 0Z" transform="translate(425 305.5)" fill="#992233" fill-opacity="0.8" filter="url(#zr0-s2)" class="zr0-cls-5"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="-277.32000000000005" y="75" transform="translate(425 305.5)" fill="#fff" fill-opacity="0.8">shadowColor + shadowBlur + shadowOffsetX + shadowOffsetY</text>
 <defs >
 <filter id="zr0-s0" x="-100%" y="-100%" width="300%" height="300%">
@@ -25,6 +25,25 @@
 <style ><![CDATA[
 .zr0-cls-0 {
 animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+fill:rgba(92,123,217,1);
+}
+.zr0-cls-2:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+.zr0-cls-3:hover {
+cursor:pointer;
+fill:rgba(56,168,18,1);
+}
+.zr0-cls-4:hover {
+cursor:pointer;
+}
+.zr0-cls-5:hover {
+cursor:pointer;
+fill:rgba(168,37,56,1);
 }
 @keyframes zr0-ani-0 {
 0% {

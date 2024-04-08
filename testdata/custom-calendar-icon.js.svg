@@ -1,40 +1,40 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M320 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M390 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M460 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M530 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M600 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M180 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M250 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M320 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M390 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M460 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M530 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M600 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M180 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M250 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M320 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M390 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M460 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M530 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M600 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M180 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M250 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M320 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M390 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M460 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M530 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M600 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M180 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M250 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M320 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M390 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<path d="M460 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc"></path>
-<polyline points="180 205.5 250 205.5 250 205.5 320 205.5 320 135.5 390 135.5 390 135.5 460 135.5 460 135.5 530 135.5 530 135.5 600 135.5 600 135.5 670 135.5" fill="none" stroke="#000"></polyline>
-<polyline points="180 485.5 250 485.5 250 485.5 320 485.5 320 485.5 390 485.5 390 485.5 460 485.5 460 485.5 530 485.5 530 415.5 600 415.5 600 415.5 670 415.5" fill="none" stroke="#000"></polyline>
-<polyline points="180 205 180 486" fill="none" stroke="#000"></polyline>
-<polyline points="670 135 670 416" fill="none" stroke="#000"></polyline>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M320 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M390 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M460 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M530 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M600 135.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M180 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M250 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M320 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M390 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M460 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M530 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M600 205.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M180 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M250 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M320 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M390 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M460 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M530 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M600 275.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M180 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M250 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M320 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M390 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M460 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M530 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M600 345.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M180 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M250 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M320 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M390 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<path d="M460 415.5l70 0l0 70l-70 0Z" fill="#fff" stroke="#ccc" class="zr0-cls-0"></path>
+<polyline points="180 205.5 250 205.5 250 205.5 320 205.5 320 135.5 390 135.5 390 135.5 460 135.5 460 135.5 530 135.5 530 135.5 600 135.5 600 135.5 670 135.5" fill="transparent" stroke="#000" class="zr0-cls-1"></polyline>
+<polyline points="180 485.5 250 485.5 250 485.5 320 485.5 320 485.5 390 485.5 390 485.5 460 485.5 460 485.5 530 485.5 530 415.5 600 415.5 600 415.5 670 415.5" fill="transparent" stroke="#000" class="zr0-cls-1"></polyline>
+<polyline points="180 205 180 486" fill="transparent" stroke="#000" class="zr0-cls-1"></polyline>
+<polyline points="670 135 670 416" fill="transparent" stroke="#000" class="zr0-cls-1"></polyline>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="215" y="94.5" fill="#000">M</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="285" y="94.5" fill="#000">T</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="355" y="94.5" fill="#000">W</text>
@@ -42,4 +42,16 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="495" y="94.5" fill="#000">F</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="565" y="94.5" fill="#000">S</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="635" y="94.5" fill="#000">S</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+.zr0-cls-1:hover {
+cursor:pointer;
+}
+
+]]>
+
+</style>
 </svg>

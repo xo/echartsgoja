@@ -1,18 +1,26 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
-<rect width="850" height="621" x="0" y="0" id="0" fill="none"></rect>
-<path d="M487.1 310.5A62.1 62.1 0 1 1 486.8 304.3A62.1 62.1 0 0 1 487.1 310.5M425 310.5A0 0 0 1 0 425 310.5A0 0 0 0 0 425 310.5" fill="#B8D3E4"></path>
-<path d="M549.2 310.5A124.2 124.2 0 1 1 548.6 298.1A124.2 124.2 0 0 1 549.2 310.5M487.1 310.5A62.1 62.1 0 1 0 486.8 316.7A62.1 62.1 0 0 0 487.1 310.5" fill="#96C5E3"></path>
-<path d="M611.3 310.5A186.3 186.3 0 1 1 610.4 291.9A186.3 186.3 0 0 1 611.3 310.5M549.2 310.5A124.2 124.2 0 1 0 548.6 322.9A124.2 124.2 0 0 0 549.2 310.5" fill="#7DB5DA"></path>
-<path d="M673.4 310.5A248.4 248.4 0 1 1 672.2 285.7A248.4 248.4 0 0 1 673.4 310.5M611.3 310.5A186.3 186.3 0 1 0 610.4 329.1A186.3 186.3 0 0 0 611.3 310.5" fill="#72ACD1"></path>
-<path d="M425 310.5A0 0 0 1 1 425 310.5A0 0 0 0 1 425 310.5M487.1 310.5A62.1 62.1 0 1 1 486.8 304.3A62.1 62.1 0 0 1 487.1 310.5M549.2 310.5A124.2 124.2 0 1 1 548.6 298.1A124.2 124.2 0 0 1 549.2 310.5M611.3 310.5A186.3 186.3 0 1 1 610.4 291.9A186.3 186.3 0 0 1 611.3 310.5M673.4 310.5A248.4 248.4 0 1 1 672.2 285.7A248.4 248.4 0 0 1 673.4 310.5" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.4"></path>
-<path d="M425.5 310.5L425.5 62.1" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round"></path>
+<rect width="850" height="621" x="0" y="0" fill="none"></rect>
+<path d="M487.1 310.5A62.1 62.1 0 1 1 486.8 304.3A62.1 62.1 0 0 1 487.1 310.5M425 310.5A0 0 0 1 0 425 310.5A0 0 0 0 0 425 310.5" fill="#B8D3E4" class="zr0-cls-0"></path>
+<path d="M549.2 310.5A124.2 124.2 0 1 1 548.6 298.1A124.2 124.2 0 0 1 549.2 310.5M487.1 310.5A62.1 62.1 0 1 0 486.8 316.7A62.1 62.1 0 0 0 487.1 310.5" fill="#96C5E3" class="zr0-cls-0"></path>
+<path d="M611.3 310.5A186.3 186.3 0 1 1 610.4 291.9A186.3 186.3 0 0 1 611.3 310.5M549.2 310.5A124.2 124.2 0 1 0 548.6 322.9A124.2 124.2 0 0 0 549.2 310.5" fill="#7DB5DA" class="zr0-cls-0"></path>
+<path d="M673.4 310.5A248.4 248.4 0 1 1 672.2 285.7A248.4 248.4 0 0 1 673.4 310.5M611.3 310.5A186.3 186.3 0 1 0 610.4 329.1A186.3 186.3 0 0 0 611.3 310.5" fill="#72ACD1" class="zr0-cls-0"></path>
+<path d="M425 310.5A0 0 0 1 1 425 310.5A0 0 0 0 1 425 310.5M487.1 310.5A62.1 62.1 0 1 1 486.8 304.3A62.1 62.1 0 0 1 487.1 310.5M549.2 310.5A124.2 124.2 0 1 1 548.6 298.1A124.2 124.2 0 0 1 549.2 310.5M611.3 310.5A186.3 186.3 0 1 1 610.4 291.9A186.3 186.3 0 0 1 611.3 310.5M673.4 310.5A248.4 248.4 0 1 1 672.2 285.7A248.4 248.4 0 0 1 673.4 310.5" fill="transparent" stroke="rgb(255,255,255)" stroke-opacity="0.4" class="zr0-cls-0"></path>
+<path d="M425.5 310.5L425.5 62.1" fill="transparent" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(425 47.1)" fill="#72ACD1">【指标一】</text>
-<path d="M425 310.5L188.8 233.7" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round"></path>
+<path d="M425 310.5L188.8 233.7" fill="transparent" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(174.4917 229.1049)" fill="#72ACD1">【指标二】</text>
-<path d="M425 310.5L279 511.5" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round"></path>
+<path d="M425 310.5L279 511.5" fill="transparent" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(270.1774 523.5951)" fill="#72ACD1">【指标三】</text>
-<path d="M425 310.5L571 511.5" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round"></path>
+<path d="M425 310.5L571 511.5" fill="transparent" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(579.8226 523.5951)" fill="#72ACD1">【指标四】</text>
-<path d="M425 310.5L661.2 233.7" fill="none" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round"></path>
+<path d="M425 310.5L661.2 233.7" fill="transparent" stroke="rgb(255,255,255)" stroke-opacity="0.4" stroke-linecap="round" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(675.5083 229.1049)" fill="#72ACD1">【指标五】</text>
+<style ><![CDATA[
+.zr0-cls-0:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
 </svg>
