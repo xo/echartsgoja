@@ -13,6 +13,7 @@ $.get(ROOT_PATH + '/data/asset/data/hangzhou-tracks.json', function (data) {
         };
     });
     myChart.setOption((option = {
+        backgroundColor: 'transparent',
         bmap: {
             center: [120.13066322374, 30.240018034923],
             zoom: 14,

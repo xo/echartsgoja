@@ -1,12 +1,12 @@
 <svg width="850" height="621" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 850 621">
 <rect width="850" height="621" x="0" y="0" fill="none"></rect>
 <path d="M85.5 60L85.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
-<path d="M93.5 60L93.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
-<path d="M189.5 60L189.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
-<path d="M285.5 60L285.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
-<path d="M381.5 60L381.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
-<path d="M477.5 60L477.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
-<path d="M573.5 60L573.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M96.5 60L96.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M192.5 60L192.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M287.5 60L287.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M383.5 60L383.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M478.5 60L478.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M574.5 60L574.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
 <path d="M669.5 60L669.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
 <path d="M765.5 60L765.5 360" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
 <path d="M85.5 360L85.5 60" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
@@ -17,13 +17,13 @@
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 310)" fill="#6E7079">categoryA</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 210)" fill="#6E7079">categoryB</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(77 110)" fill="#6E7079">categoryC</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(92.864 368)" fill="#6E7079">1,712,561,250,000</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(188.8834 368)" fill="#6E7079">1,712,561,260,000</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(284.9029 368)" fill="#6E7079">1,712,561,270,000</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(380.9223 368)" fill="#6E7079">1,712,561,280,000</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(476.9417 368)" fill="#6E7079">1,712,561,290,000</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(572.9611 368)" fill="#6E7079">1,712,561,300,000</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(668.9806 368)" fill="#6E7079">1,712,561,310,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(96.7235 368)" fill="#6E7079">1,717,631,570,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(192.1916 368)" fill="#6E7079">1,717,631,580,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(287.6596 368)" fill="#6E7079">1,717,631,590,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(383.1277 368)" fill="#6E7079">1,717,631,600,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(478.5958 368)" fill="#6E7079">1,717,631,610,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(574.0639 368)" fill="#6E7079">1,717,631,620,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(669.5319 368)" fill="#6E7079">1,717,631,630,000</text>
 <path d="M0 0l680 0l0 30l-680 0Z" transform="matrix(1,0,0,-1,87.8,436.5)" fill="rgb(47,69,84)" fill-opacity="0" class="zr0-cls-0"></path>
 <path d="M0 0l680 0l0 30l-680 0Z" transform="matrix(1,0,0,-1,87.8,436.5)" fill="transparent" class="zr0-cls-1"></path>
 <path d="M0 0l680 0l0 30l-680 0Z" transform="matrix(1,0,0,-1,87.8,436.5)" fill="rgb(135,175,255)" fill-opacity="0.2" class="zr0-cls-0"></path>
