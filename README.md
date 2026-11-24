@@ -1,3 +1,11 @@
+<hr/>
+
+## DEPRECATED
+
+NOTE: This repo has been deprecated. Pure Go charts and rendering is now
+available in the [`zuzu`](https://github.com/xo/zuzu) package.
+
+<hr/>
 # echartsgoja
 
 `echartsgoja` renders [Apache ECharts][echarts-examples] as SVGs using the
